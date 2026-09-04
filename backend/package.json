@@ -1,0 +1,22 @@
+{
+  "name": "carbon-credit-backend",
+  "version": "1.0.0",
+  "description": "Carbon Credit Price Discovery + Quality Scoring API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "import-berkeley": "node import-berkeley.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.120.0",
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "pg": "^8.23.0",
+    "razorpay": "^2.9.8",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,6169 @@
+[
+  {
+    "project_name": "Boa Vista A/R",
+    "registry": "ACR",
+    "vintage_year": 2011,
+    "is_anomaly": true,
+    "anomaly_risk_score": 83.8
+  },
+  {
+    "project_name": "GreenTrees ACRE (Advanced Carbon Restored Ecosystem)",
+    "registry": "ACR",
+    "vintage_year": 2009,
+    "is_anomaly": true,
+    "anomaly_risk_score": 90.6
+  },
+  {
+    "project_name": "Lower Mississippi Valley Reforestation",
+    "registry": "ACR",
+    "vintage_year": 2011,
+    "is_anomaly": true,
+    "anomaly_risk_score": 87.4
+  },
+  {
+    "project_name": "Round Valley Indian Tribes Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.2
+  },
+  {
+    "project_name": "Hanes Ranch Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.1
+  },
+  {
+    "project_name": "Miller Forest",
+    "registry": "ACR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.0
+  },
+  {
+    "project_name": "Green Assets-Brookgreen Gardens Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.1
+  },
+  {
+    "project_name": "Finite Carbon - The Forestland Group CT Lakes",
+    "registry": "ACR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.0
+  },
+  {
+    "project_name": "Brush Creek",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.1
+  },
+  {
+    "project_name": "Blue Source - Goodman Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.9
+  },
+  {
+    "project_name": "Huron Mountain Club Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.8
+  },
+  {
+    "project_name": "White Mountain Apache Tribe Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2012,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.0
+  },
+  {
+    "project_name": "UPM Blandin Native American Hardwoods Conservation & Carbon Sequestration Project",
+    "registry": "ACR",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 54.6
+  },
+  {
+    "project_name": "Finite Carbon - The Forestland Group Chateaugay Woodlands IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.9
+  },
+  {
+    "project_name": "Cumberland Forest Highlands IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.0
+  },
+  {
+    "project_name": "Finite Carbon - Lyme Wyoming IFM",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 54.0
+  },
+  {
+    "project_name": "Glasscock Island",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.7
+  },
+  {
+    "project_name": "Finite Carbon - Colville IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 63.8
+  },
+  {
+    "project_name": "Finite Carbon - Tennessee River Gorge Trust IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.2
+  },
+  {
+    "project_name": "Finite Carbon - Cook's Branch Conservancy IFM",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "Warm Springs Phase I",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.3
+  },
+  {
+    "project_name": "Bewley Ranches",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.6
+  },
+  {
+    "project_name": "Blue Source - Powellton Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.4
+  },
+  {
+    "project_name": "Bear Creek Watershed Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.7
+  },
+  {
+    "project_name": "Green Diamond Resource Company Klamath East IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.3
+  },
+  {
+    "project_name": "Green Diamond Resource Company Klamath West IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.9
+  },
+  {
+    "project_name": "Blue Source - Allegheny Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.9
+  },
+  {
+    "project_name": "Cumberland Forest - Lonesome Pine Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.6
+  },
+  {
+    "project_name": "Blue Source - Marmet Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.7
+  },
+  {
+    "project_name": "Blue Source - Wisconsin Northern Highlands Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.0
+  },
+  {
+    "project_name": "Blue Creek",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.8
+  },
+  {
+    "project_name": "Finite Carbon - Massachusetts Audubon Society IFM",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.9
+  },
+  {
+    "project_name": "Camp Shelby Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.8
+  },
+  {
+    "project_name": "Congaree River",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.5
+  },
+  {
+    "project_name": "Finite Carbon - Lakes Region Conservation Trust IFM",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.7
+  },
+  {
+    "project_name": "White Mountain Apache Tribe Carbon Project II",
+    "registry": "ACR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 56.5
+  },
+  {
+    "project_name": "Finite Carbon - Sealaska Native Alaskan IFM",
+    "registry": "ACR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.4
+  },
+  {
+    "project_name": "Finite Carbon - Ahtna Native Alaskan IFM",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 63.9
+  },
+  {
+    "project_name": "Forest Carbon Partners - Port Graham Corporation Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.2
+  },
+  {
+    "project_name": "Anew - Middlebury Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.5
+  },
+  {
+    "project_name": "Blue Source - Great Mountain Forest Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.4
+  },
+  {
+    "project_name": "Blue Source - Northwoods Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.0
+  },
+  {
+    "project_name": "Anew - Shafer-Tuuk Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.5
+  },
+  {
+    "project_name": "Hawk Mountain Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.4
+  },
+  {
+    "project_name": "Anew - Massachusetts Tri-City Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.9
+  },
+  {
+    "project_name": "Cappell Creek Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.7
+  },
+  {
+    "project_name": "Lord Ellis Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.8
+  },
+  {
+    "project_name": "Hudson Farm Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.6
+  },
+  {
+    "project_name": "Winston Creek Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.2
+  },
+  {
+    "project_name": "Blue Source - Wilderness Lakes Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.5
+  },
+  {
+    "project_name": "Hiawatha Club Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.4
+  },
+  {
+    "project_name": "Finite Carbon - MWF Ned Lake IFM",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Anew - Doe Mountain Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Finite Carbon - Tyonek Native Alaskan IFM",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.9
+  },
+  {
+    "project_name": "Finite Carbon - Meriwether IFM",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.1
+  },
+  {
+    "project_name": "Bluesource - Baskahegan Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.6
+  },
+  {
+    "project_name": "Finite Carbon - Sealaska 2 Native Alaskan IFM",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.4
+  },
+  {
+    "project_name": "Wabassus Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.4
+  },
+  {
+    "project_name": "Forest Carbon Works Stewart Family Forest Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.7
+  },
+  {
+    "project_name": "Albany Water Board - Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.6
+  },
+  {
+    "project_name": "Bluesource - Goldbelt Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.8
+  },
+  {
+    "project_name": "The Nature Conservancy - Upper St. John Forest IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.9
+  },
+  {
+    "project_name": "Finite Carbon - Huna Totem Native Alaskan IFM",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.2
+  },
+  {
+    "project_name": "Bluesource - Cumberland Mountains Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.9
+  },
+  {
+    "project_name": "Bluesource \u2013 Edge of Appalachia Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.2
+  },
+  {
+    "project_name": "TNC-Chestnut Mountain Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.5
+  },
+  {
+    "project_name": "Bluesource - Haida Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.5
+  },
+  {
+    "project_name": "Anew - Klawock Heenya Native Community Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.3
+  },
+  {
+    "project_name": "Lower Green Swamp Preserve",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.6
+  },
+  {
+    "project_name": "Anew - Kootznoowoo Native Community Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.5
+  },
+  {
+    "project_name": "Anew - Sharp Bingham Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.4
+  },
+  {
+    "project_name": "Anew - Greenleaf Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Anew - Pennsylvania Ridges Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.2
+  },
+  {
+    "project_name": "Otter Creek IFM",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.1
+  },
+  {
+    "project_name": "Kite Hammock IFM",
+    "registry": "ACR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Anew - Burnt Mountain Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.5
+  },
+  {
+    "project_name": "Cold Hollow Carbon - Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.6
+  },
+  {
+    "project_name": "Anew - Shaan Seet Native Community Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.8
+  },
+  {
+    "project_name": "Puget Sound Energy Baker-White River Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.8
+  },
+  {
+    "project_name": "Bluesource - Spirit Falls Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.3
+  },
+  {
+    "project_name": "Finite Carbon - Opal Mountain Ranch IFM",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.9
+  },
+  {
+    "project_name": "Anew - Navajo Nation Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 60.3
+  },
+  {
+    "project_name": "Finite Carbon - Park Forestry IFM",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.9
+  },
+  {
+    "project_name": "Finite Carbon - Hiawatha Sportsman's Club IFM",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.4
+  },
+  {
+    "project_name": "Anew - 100-Mile Wilderness  Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.6
+  },
+  {
+    "project_name": "Anew - East Branch Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Forest Carbon Works Rowan Family Forest Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.8
+  },
+  {
+    "project_name": "Finite Carbon - AMC Maine Woods Initiative IFM",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "The Nature Conservancy Washington Rainforest Renewal Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.9
+  },
+  {
+    "project_name": "Anew - Rainier Gateway Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.6
+  },
+  {
+    "project_name": "The University of Tennessee Forest Resources AgResearch and Education Center Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.9
+  },
+  {
+    "project_name": "18 Reserves Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.3
+  },
+  {
+    "project_name": "Anew - North Maine Woods Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.6
+  },
+  {
+    "project_name": "Anew - Big Six Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.8
+  },
+  {
+    "project_name": "Anew - Blue Ridge Escarpment Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.8
+  },
+  {
+    "project_name": "Anew - Doyon Native Community Forest Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.3
+  },
+  {
+    "project_name": "Anew - Elk Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.6
+  },
+  {
+    "project_name": "Anew - Boone Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.3
+  },
+  {
+    "project_name": "Forest Carbon Works Christensen Family Forest Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.3
+  },
+  {
+    "project_name": "Anew - Moose Country Divide Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.8
+  },
+  {
+    "project_name": "Anew - Bluestone Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.1
+  },
+  {
+    "project_name": "Anew - Michigan DNR Big Wild Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Anew - Columbia River Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Anew - Tomah Highlands Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.2
+  },
+  {
+    "project_name": "Anew - Apalachicola River Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.8
+  },
+  {
+    "project_name": "Wolf Lands Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.9
+  },
+  {
+    "project_name": "Anew - Eagle Mountain Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.5
+  },
+  {
+    "project_name": "Anew - White Mountain Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.0
+  },
+  {
+    "project_name": "ILTF/NICC & SIG Fond Du Lac Band Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.8
+  },
+  {
+    "project_name": "ILTF/NICC & SIG  Keweenaw Bay Indian Community Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.9
+  },
+  {
+    "project_name": "Bluesource - Vermejo Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.9
+  },
+  {
+    "project_name": "Anew - Northeast Kingdom Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.1
+  },
+  {
+    "project_name": "Anew - Bayfield County Forest Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.5
+  },
+  {
+    "project_name": "The Nature Conservancy \u2013 Michigamme Highlands Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.6
+  },
+  {
+    "project_name": "Anew - Canada Creek Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.4
+  },
+  {
+    "project_name": "Anew - Connecticut River Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Blue Hills Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.8
+  },
+  {
+    "project_name": "Finite Carbon - L.D. O'Rourke Foundation IFM",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.8
+  },
+  {
+    "project_name": "Anew - Two-Hearted Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Anew - Superior Watershed Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.6
+  },
+  {
+    "project_name": "Anew - Washburn County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.3
+  },
+  {
+    "project_name": "Anew - Quinte Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.3
+  },
+  {
+    "project_name": "Anew - Sylvania Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.8
+  },
+  {
+    "project_name": "Anew - McCoy Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.9
+  },
+  {
+    "project_name": "Anew \u2013 Rusk County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.3
+  },
+  {
+    "project_name": "Anew \u2013 Iron County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.7
+  },
+  {
+    "project_name": "Anew - Hartwood Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.9
+  },
+  {
+    "project_name": "Anew - Michigan DNR Wolverine Copper Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.8
+  },
+  {
+    "project_name": "Anew - Katahdin Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.2
+  },
+  {
+    "project_name": "Anew - Longview Ranch Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.0
+  },
+  {
+    "project_name": "Finite Carbon - Windrock Land Company IFM",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.3
+  },
+  {
+    "project_name": "Wildlands Carbon Initiative",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.7
+  },
+  {
+    "project_name": "Anew - Empire Riverlands Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.9
+  },
+  {
+    "project_name": "Hodag Forest Project (HFP)",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.3
+  },
+  {
+    "project_name": "Anew - Price County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.4
+  },
+  {
+    "project_name": "Chahta Yakni Ishtayah",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.6
+  },
+  {
+    "project_name": "Anew - Cole & Crane Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.6
+  },
+  {
+    "project_name": "Anew - Woodbury Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.0
+  },
+  {
+    "project_name": "Kibby Skinner IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.7
+  },
+  {
+    "project_name": "North Florida Land Trust Forest Conservation",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.7
+  },
+  {
+    "project_name": "Scott River Shackleford IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.6
+  },
+  {
+    "project_name": "Scott River Whiskey IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.2
+  },
+  {
+    "project_name": "Scott River Wildcat IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.9
+  },
+  {
+    "project_name": "Finite Carbon - Loon Echo and Mahoosuc Land Trusts IFM",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.0
+  },
+  {
+    "project_name": "Green Diamond Resource Company Thompson River IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.3
+  },
+  {
+    "project_name": "Northern Cheyenne Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.0
+  },
+  {
+    "project_name": "Green Diamond Resource Company Lost Trail IFM",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.5
+  },
+  {
+    "project_name": "Anew - Allagash Headwaters Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.7
+  },
+  {
+    "project_name": "Nuveen Upper Piedmont Conservation Area",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.3
+  },
+  {
+    "project_name": "ILTF/NICC & Blackfeet Indian Nation Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.6
+  },
+  {
+    "project_name": "NativState \u2013 S&J Taylor Forest Carbon Improved Forest Management Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.4
+  },
+  {
+    "project_name": "Finite Carbon - Bessey Development Company IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.3
+  },
+  {
+    "project_name": "Finite Carbon - Scott Woodlands IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.8
+  },
+  {
+    "project_name": "Finite Carbon - Appalachian Carbon Exchange IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.6
+  },
+  {
+    "project_name": "NativState - Mixed Upland Forests of the Ozarks & Ouachita Mountains (PDA)",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.7
+  },
+  {
+    "project_name": "NativState - Bottomland Forests of the Mississippi Delta & Coastal Plains (PDA)",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.5
+  },
+  {
+    "project_name": "Anew - Walker Line Sustainable Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.0
+  },
+  {
+    "project_name": "Coastal Edge IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.7
+  },
+  {
+    "project_name": "Finite Carbon - Green Acre Woodlands IFM",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.6
+  },
+  {
+    "project_name": "Anew - Manistique Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.3
+  },
+  {
+    "project_name": "Finite Carbon - Manulife Blueback IFM",
+    "registry": "ACR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.6
+  },
+  {
+    "project_name": "NativState - Bottomland Forests of the Louisiana Plains (PDA)",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.5
+  },
+  {
+    "project_name": "Anew - Big Poplar Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.2
+  },
+  {
+    "project_name": "Anew - Little Bear Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.1
+  },
+  {
+    "project_name": "Anew - Louisiana Lowlands Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.0
+  },
+  {
+    "project_name": "Anew - Gingercake Ridge Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.9
+  },
+  {
+    "project_name": "Anew - Arrowhead Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.4
+  },
+  {
+    "project_name": "Anew - Appalachian Hollows Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.3
+  },
+  {
+    "project_name": "Anew - Chestnut Oak Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.1
+  },
+  {
+    "project_name": "Anew - Cumberland Gap Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.8
+  },
+  {
+    "project_name": "Anew - Kanawha River Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "Anew - Gauley River Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.3
+  },
+  {
+    "project_name": "Mississippi River Islands Forest Conservation Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.8
+  },
+  {
+    "project_name": "Rosetta IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.5
+  },
+  {
+    "project_name": "Northwest Arkansas IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.9
+  },
+  {
+    "project_name": "Anew - Ashland County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.5
+  },
+  {
+    "project_name": "Razorback IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.9
+  },
+  {
+    "project_name": "Flathead Ridge Ranch Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.0
+  },
+  {
+    "project_name": "Maine St. John River Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.1
+  },
+  {
+    "project_name": "NativState - Calion Ouachita River Wilderness",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.7
+  },
+  {
+    "project_name": "Finite Carbon - Northeast Carry Woodlands IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.6
+  },
+  {
+    "project_name": "Double Bar IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "Finite Carbon - Batchawana Bay Forest IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.9
+  },
+  {
+    "project_name": "Cape Fox Carbon IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.0
+  },
+  {
+    "project_name": "HRC Oak Meadows IFM",
+    "registry": "ACR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.0
+  },
+  {
+    "project_name": "Easthaven IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 56.8
+  },
+  {
+    "project_name": "Alsea River Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.9
+  },
+  {
+    "project_name": "Anew \u2013 Sawyer County Forestry Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.0
+  },
+  {
+    "project_name": "Challenge Tree Farm IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "NativState - Bottomland Forests of the Mississippi Backswamps and Delta Mixed Forests (PDA)",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.4
+  },
+  {
+    "project_name": "Calabrella IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.4
+  },
+  {
+    "project_name": "SPP Lost Trail IFM",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.5
+  },
+  {
+    "project_name": "Thompson Family Forest Restoration Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.0
+  },
+  {
+    "project_name": "Rudio Mountain Forest Carbon Project",
+    "registry": "ACR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.5
+  },
+  {
+    "project_name": "Sooes Dickey IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.1
+  },
+  {
+    "project_name": "Calawah-Bogachiel IFM Project",
+    "registry": "ACR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.2
+  },
+  {
+    "project_name": "Guyana",
+    "registry": "ART",
+    "vintage_year": 2016,
+    "is_anomaly": true,
+    "anomaly_risk_score": 79.9
+  },
+  {
+    "project_name": "Costa Rica FCPF REDD+ Emission Reductions Program",
+    "registry": "ART",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 52.1
+  },
+  {
+    "project_name": "Cote d'Ivoire Tai National Park Area Emission Reductions Program",
+    "registry": "ART",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.3
+  },
+  {
+    "project_name": "The van Eck Forest",
+    "registry": "CAR",
+    "vintage_year": 2005,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.3
+  },
+  {
+    "project_name": "Garcia River Forest",
+    "registry": "CAR",
+    "vintage_year": 2005,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.5
+  },
+  {
+    "project_name": "Big River / Salmon Creek Forests",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.1
+  },
+  {
+    "project_name": "McCloud River",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.3
+  },
+  {
+    "project_name": "RPH Ranch",
+    "registry": "CAR",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.2
+  },
+  {
+    "project_name": "Arcata Sunnybrae Tract",
+    "registry": "CAR",
+    "vintage_year": 2006,
+    "is_anomaly": false,
+    "anomaly_risk_score": 52.3
+  },
+  {
+    "project_name": "Finite Carbon - MWF Brimstone IFM Project I",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.1
+  },
+  {
+    "project_name": "Lompico Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 57.2
+  },
+  {
+    "project_name": "Finite Carbon - The Forestland Group Champion Property",
+    "registry": "CAR",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.4
+  },
+  {
+    "project_name": "Katahdin Iron Works Ecological Reserve",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.3
+  },
+  {
+    "project_name": "Finite Carbon - Potlatch Moro Big Pine CE",
+    "registry": "CAR",
+    "vintage_year": 2006,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.7
+  },
+  {
+    "project_name": "Alder Stream Preserve",
+    "registry": "CAR",
+    "vintage_year": 2006,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.5
+  },
+  {
+    "project_name": "Finite Carbon - Farm Cove Community Forest Project",
+    "registry": "CAR",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.9
+  },
+  {
+    "project_name": "Finite Carbon - Brosnan Forest",
+    "registry": "CAR",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.2
+  },
+  {
+    "project_name": "Gualala River Forest",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.7
+  },
+  {
+    "project_name": "Willits Woods",
+    "registry": "CAR",
+    "vintage_year": 2004,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.9
+  },
+  {
+    "project_name": "Finite Carbon - NEFF",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.6
+  },
+  {
+    "project_name": "Howland Research Forest",
+    "registry": "CAR",
+    "vintage_year": 2008,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.3
+  },
+  {
+    "project_name": "Blue Source - Francis Beidler Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.4
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Clifton Farm",
+    "registry": "CAR",
+    "vintage_year": 2004,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.0
+  },
+  {
+    "project_name": "Lucchesi Tract",
+    "registry": "CAR",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.8
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Rich Mountain",
+    "registry": "CAR",
+    "vintage_year": 2002,
+    "is_anomaly": true,
+    "anomaly_risk_score": 64.4
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Tazewell - Elk Garden",
+    "registry": "CAR",
+    "vintage_year": 2005,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.7
+  },
+  {
+    "project_name": "Usal Redwood Forest",
+    "registry": "CAR",
+    "vintage_year": 2007,
+    "is_anomaly": false,
+    "anomaly_risk_score": 57.6
+  },
+  {
+    "project_name": "Yurok Tribe Sustainable Forest Project",
+    "registry": "CAR",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.9
+  },
+  {
+    "project_name": "Finite Carbon - Shannondale Tree Farm",
+    "registry": "CAR",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.9
+  },
+  {
+    "project_name": "Arcata City Forest Barnum Tract",
+    "registry": "CAR",
+    "vintage_year": 2003,
+    "is_anomaly": true,
+    "anomaly_risk_score": 66.2
+  },
+  {
+    "project_name": "Blue Source - Bishop Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.9
+  },
+  {
+    "project_name": "Yurok Tribe/Forest Carbon Partners CKGG Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.6
+  },
+  {
+    "project_name": "Finite Carbon - Berry Summit",
+    "registry": "CAR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.3
+  },
+  {
+    "project_name": "Buckeye Forest Project",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.7
+  },
+  {
+    "project_name": "Rips Redwoods",
+    "registry": "CAR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.7
+  },
+  {
+    "project_name": "Virginia Highlands I",
+    "registry": "CAR",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.1
+  },
+  {
+    "project_name": "Sacramento Canyon ARB001",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.1
+  },
+  {
+    "project_name": "Trinity Timberlands University Hill Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.8
+  },
+  {
+    "project_name": "Finite Carbon - Shannondale Tree Farm",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.9
+  },
+  {
+    "project_name": "Farm Cove Community Forest",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.1
+  },
+  {
+    "project_name": "Buck Mountain ARB002",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.7
+  },
+  {
+    "project_name": "Sustainable Mountain IFM",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.3
+  },
+  {
+    "project_name": "Phase 1 Sustainable Forest Project",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.5
+  },
+  {
+    "project_name": "Finite Carbon - Potlatch Moro Big Pine CE IFM",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.1
+  },
+  {
+    "project_name": "Finite Carbon - JTO Champion Property IFM",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.6
+  },
+  {
+    "project_name": "Big Valley",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.6
+  },
+  {
+    "project_name": "Ashford III",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.2
+  },
+  {
+    "project_name": "Brushy Mountain",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.5
+  },
+  {
+    "project_name": "Garcia River Forest - ARB",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.6
+  },
+  {
+    "project_name": "Gualala River Forest - ARB",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.1
+  },
+  {
+    "project_name": "Big River / Salmon Creek Forests - ARB",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.5
+  },
+  {
+    "project_name": "Montesol - Forest Carbon Partners Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.8
+  },
+  {
+    "project_name": "Forest Carbon Partners -- Glass Ranch Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.9
+  },
+  {
+    "project_name": "Gabrych Ranch Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.9
+  },
+  {
+    "project_name": "Backbone",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.5
+  },
+  {
+    "project_name": "Crane Valley",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.4
+  },
+  {
+    "project_name": "Finite Carbon - Lyme Brimstone Timberlands IFM",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.5
+  },
+  {
+    "project_name": "Finite Carbon - Brosnan Forest",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.0
+  },
+  {
+    "project_name": "Usal Redwood Forest - IFM",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.7
+  },
+  {
+    "project_name": "Willits Woods IFM",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.0
+  },
+  {
+    "project_name": "Van Eck Forest",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.8
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Tazewell - Elk Garden",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.9
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Rich Mountain",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.7
+  },
+  {
+    "project_name": "Virginia Conservation Forestry Program - Clifton Farm",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.8
+  },
+  {
+    "project_name": "SIG Carbon\u2013 Northeast Wilderness Trust \u2013 Howland Research Forest",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.8
+  },
+  {
+    "project_name": "SIG Carbon - Northeast Wilderness Trust - Alder Stream Preserve",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.6
+  },
+  {
+    "project_name": "Forest Carbon Partners - Berea College Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.6
+  },
+  {
+    "project_name": "Forest Carbon Partners -- Eddie Ranch Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.3
+  },
+  {
+    "project_name": "Finite Carbon - Passamaquoddy Tribe IFM",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.6
+  },
+  {
+    "project_name": "Mailliard Ranch",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.3
+  },
+  {
+    "project_name": "Forest Carbon Partners - Mescalero Apache Tribe Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.4
+  },
+  {
+    "project_name": "Greenwood Creek",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.6
+  },
+  {
+    "project_name": "Hollow Tree",
+    "registry": "CAR",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.5
+  },
+  {
+    "project_name": "Finite Carbon - Upper Hudson Woodlands ATP IFM",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.4
+  },
+  {
+    "project_name": "Finite Carbon - AMC Silver Lake IFM",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.0
+  },
+  {
+    "project_name": "Finite Carbon - Lyme Logan IFM",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.0
+  },
+  {
+    "project_name": "Wapiti Woods I",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Finite Carbon - Alma Land Company IFM",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.0
+  },
+  {
+    "project_name": "Blue Source-Wolf River Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.8
+  },
+  {
+    "project_name": "Finite Carbon - MWF Adirondacks IFM",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.6
+  },
+  {
+    "project_name": "CF Ataya IFM",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "Finite Carbon - West Grand Lake IFM",
+    "registry": "CAR",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.3
+  },
+  {
+    "project_name": "Finite Carbon - Rowland IFM",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.5
+  },
+  {
+    "project_name": "Captura de Carbono en San Juan Lachao, Oaxaca",
+    "registry": "CAR",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.3
+  },
+  {
+    "project_name": "Chugach Alaska Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.3
+  },
+  {
+    "project_name": "Captura de carbono en San Rafael Ixtapalucan",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.4
+  },
+  {
+    "project_name": "Conservaci\u00f3n y Captura de Carbono Co2ltzingo",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.2
+  },
+  {
+    "project_name": "Forest Carbon Partners - Seldovia Native Association Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Forest Carbon Partners - English Bay Corporation Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.0
+  },
+  {
+    "project_name": "Finite Carbon - Sieben Live Stock IFM",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.2
+  },
+  {
+    "project_name": "Proyecto Carbono Forestal, Ejido San Nicol\u00e1s Totolapan, CDMX",
+    "registry": "CAR",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 24.3
+  },
+  {
+    "project_name": "Save the Redwoods League 2018",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.7
+  },
+  {
+    "project_name": "Finite Carbon - Spokane Tribe of Indians IFM",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.0
+  },
+  {
+    "project_name": "Captura de Carbono Forestal Ejido San Lucas",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.1
+  },
+  {
+    "project_name": "Forest Carbon Partners - Hunter Ranch Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.6
+  },
+  {
+    "project_name": "Monte Rio Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.7
+  },
+  {
+    "project_name": "Lubrecht Experimental Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.6
+  },
+  {
+    "project_name": "Captura de Carbono San Bartolo O2",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.1
+  },
+  {
+    "project_name": "TCT Birmingham IFM Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.7
+  },
+  {
+    "project_name": "Humboldt Mixed Forest Improvement Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.8
+  },
+  {
+    "project_name": "Reforesting the Land of the Jaguar",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.8
+  },
+  {
+    "project_name": "El Nopalillo - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.9
+  },
+  {
+    "project_name": "Cima de Togo - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.1
+  },
+  {
+    "project_name": "Chacalapa - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.1
+  },
+  {
+    "project_name": "El Ocote - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.6
+  },
+  {
+    "project_name": "Sangre de Cristo - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.6
+  },
+  {
+    "project_name": "Xahuayalulco - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.5
+  },
+  {
+    "project_name": "Hueyapan - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.7
+  },
+  {
+    "project_name": "Las Puentes y Anexos - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.2
+  },
+  {
+    "project_name": "La Estancia - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.2
+  },
+  {
+    "project_name": "El Ventorrillo - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.1
+  },
+  {
+    "project_name": "San Lorenzo Sayula - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.3
+  },
+  {
+    "project_name": "Sabanetas - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.8
+  },
+  {
+    "project_name": "Tecocomulco - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.8
+  },
+  {
+    "project_name": "Emiliano Zapata - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.4
+  },
+  {
+    "project_name": "Los Romeros - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.1
+  },
+  {
+    "project_name": "San Pedro Huixotitla - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.5
+  },
+  {
+    "project_name": "Puentecillas y Anexos - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.0
+  },
+  {
+    "project_name": "Alhuajoyucan - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.0
+  },
+  {
+    "project_name": "Ixtula y Sembo - ASRTulancingo",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.5
+  },
+  {
+    "project_name": "Pine Creek Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.4
+  },
+  {
+    "project_name": "Finite Carbon - Stevenson AL IFM",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.1
+  },
+  {
+    "project_name": "Finite Carbon - Stevenson TN IFM",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.8
+  },
+  {
+    "project_name": "Carbono Otom\u00ed La Florida",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.7
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal en Bienes Comunales de Santiago Tlacotepec",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.3
+  },
+  {
+    "project_name": "RBS 2019",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.8
+  },
+  {
+    "project_name": "Cohasset 2019",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.0
+  },
+  {
+    "project_name": "Mosquito 2019",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.9
+  },
+  {
+    "project_name": "San Jer\u00f3nimo ZacapexCO2 - Ejido",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.7
+  },
+  {
+    "project_name": "San Jer\u00f3nimo ZacapexCO2 - Bienes Comunales",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.4
+  },
+  {
+    "project_name": "Finite Carbon - Lyme Wisconsin IFM",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.1
+  },
+  {
+    "project_name": "Ejido forestal Los Bancos",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.1
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena La Trinidad",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Lassen",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.1
+  },
+  {
+    "project_name": "Martell",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.9
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Xiacu\u00ed",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.9
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Capul\u00e1lpam",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Ejido sierra de Agua",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.9
+  },
+  {
+    "project_name": "Ejido La Libertad",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.8
+  },
+  {
+    "project_name": "Ejido San Pedro Buenavista",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.8
+  },
+  {
+    "project_name": "Ejido Coatitila",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.7
+  },
+  {
+    "project_name": "Finite Carbon - Dingess Rum IFM",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.1
+  },
+  {
+    "project_name": "Ejido El Agua de Los Pescados y sus Anexos",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 20.1
+  },
+  {
+    "project_name": "Predio Las Piedras",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.9
+  },
+  {
+    "project_name": "Shasta Cascade Timberlands Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.0
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Maninaltepec",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.9
+  },
+  {
+    "project_name": "Captura de carbono forestal en la Comunidad de Rinc\u00f3n de Guadalupe",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.0
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido Corral de Piedra",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en la comunidad de San Miguel Tenextepec",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.8
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido El Capul\u00edn",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.9
+  },
+  {
+    "project_name": "Captura de carbono forestal en la comunidad de Santa Mar\u00eda y sus Barrios",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido San Jer\u00f3nimo",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido San Juan",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido San Mateo",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.3
+  },
+  {
+    "project_name": "Captura de carbono forestal en el  Ejido Rinc\u00f3n de Guadalupe",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en el Ejido El Potrero",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.5
+  },
+  {
+    "project_name": "Captura de carbono en los Bosques de la Comunidad Ind\u00edgena Nuevo San Juan Parangaricutiro, M\u00e9xico.",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.1
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Ixtl\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Metaltepec",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.8
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Pe\u00f1oles",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.9
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena San Bartolom\u00e9",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.5
+  },
+  {
+    "project_name": "Pueblos Mancomunados de Oaxaca",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN EL BOSQUE DE LA SOCIEDAD DE SOLIDARIDAD SOCIAL PIEDRA CANTEADA, NANACAMILPA  DE MARIANO  ARISTA, TLAXCALA,MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.5
+  },
+  {
+    "project_name": "Ejido Topia",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "Ejido Valle de Topia",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Comunidad Rio y Papudos",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.2
+  },
+  {
+    "project_name": "Ejido Salto de Camellones",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.9
+  },
+  {
+    "project_name": "Ejido Las Vigas",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.0
+  },
+  {
+    "project_name": "Ejido Tonalaco",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.0
+  },
+  {
+    "project_name": "Proyecto forestal de carbono del Ejido Pioneros de R\u00edo Xhon - Ha",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.3
+  },
+  {
+    "project_name": "Proyecto forestal de carbono del Ejido L\u00e1zaro C\u00e1rdenas N\u00famero 2",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.0
+  },
+  {
+    "project_name": "Proyecto forestal de carbono del Ejido Xbonil",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.0
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2-El Naranjal",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.7
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2-Candelaria II",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.7
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2-San Antonio Tuk",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.9
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2_San Felipe Oriente",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.2
+  },
+  {
+    "project_name": "Carbono Petcacab",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido San Francisco Oxtotilpan",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido Amanalco de Becerra",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido San Miguel Tenextepec",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.2
+  },
+  {
+    "project_name": "Captura de carbono forestal en los Bienes Comunales de San Miguel Ixtapan",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.8
+  },
+  {
+    "project_name": "Captura de carbono forestal en los Bienes Comunales de San Miguel Xoltepec",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido Nuevo San Juan Atezcapan",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.3
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido San Miguel Sultepec",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido La Candelaria",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.4
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido Capilla Vieja",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.1
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Jaltianguis",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.7
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Comaltepec",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.5
+  },
+  {
+    "project_name": "P. P. La Pinzi\u00f3n",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.5
+  },
+  {
+    "project_name": "P. P. Pe\u00f1a del gato",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.4
+  },
+  {
+    "project_name": "P. P. El Pel\u00f3n",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.3
+  },
+  {
+    "project_name": "P.P. El \u00e1guila",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.7
+  },
+  {
+    "project_name": "P.P. El Tecolote",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.7
+  },
+  {
+    "project_name": "P.P. Estancia Borrotes",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.9
+  },
+  {
+    "project_name": "Ejido Atopixco",
+    "registry": "CAR",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.9
+  },
+  {
+    "project_name": "Ejido Malila",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.0
+  },
+  {
+    "project_name": "Ejido Zacualtip\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "Ejido La Selva",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.4
+  },
+  {
+    "project_name": "Bienes Comunales Santa Isabel Chalma",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.0
+  },
+  {
+    "project_name": "Bienes Comunales San Pedro Ecatzingo",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.9
+  },
+  {
+    "project_name": "Ejido San Antonio de la Rinconada o Tlaltecahuacan",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.4
+  },
+  {
+    "project_name": "Ejido Tlalmanalco",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.2
+  },
+  {
+    "project_name": "Ejido San Mart\u00edn Cuautlalpan",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.1
+  },
+  {
+    "project_name": "Bienes Comunales Santiago Cuautenco",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.1
+  },
+  {
+    "project_name": "Lost Coast Forestlands Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.9
+  },
+  {
+    "project_name": "Ejido Forestal Chavarria Nuevo",
+    "registry": "CAR",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "Ejido KM 120",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "NCPE Centauro del Norte",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.1
+  },
+  {
+    "project_name": "Laguna Om",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.8
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Abejones",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.3
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN EL BOSQUE DE BIENES COMUNALES SAN JUAN CUAUHTEMOC,TLAHUAPAN,PUEBLA",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.6
+  },
+  {
+    "project_name": "Comunidad Chavarr\u00eda Nuevo",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.4
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN LOS BOSQUES DEL EJIDO EL BRILLANTE, MUNICIPIO DE PUEBLO NUEVO, ESTADO DE DURANGO, MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.5
+  },
+  {
+    "project_name": "Ejido 18 de Marzo",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "Ejido Chunhuhub",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.3
+  },
+  {
+    "project_name": "Sonora",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.2
+  },
+  {
+    "project_name": "Proyecto forestal de carbono del Ejido San Diego de Tezains, Durango, M\u00e9xico",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.7
+  },
+  {
+    "project_name": "EJIDO TODOS SANTOS Y ANEXOS",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.0
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN LOS BOSQUES DEL  EJIDO LA CUEVA Y ANEXOS, MUNICIPIO DE PUEBLO NUEVO, ESTADO DE DURANGO, MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.3
+  },
+  {
+    "project_name": "Bonos de Carbono-San Jos\u00e9 del Rinc\u00f3n-Mariposa Monarca-Concepci\u00f3n del Monte",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.3
+  },
+  {
+    "project_name": "Bonos de Carbono-San Jos\u00e9 del Rinc\u00f3n-Mariposa Monarca-Ejido Las Rosas",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.5
+  },
+  {
+    "project_name": "Bonos de Carbono-San Jos\u00e9 del Rinc\u00f3n-Mariposa Monarca-Ejido Los Lobos",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.4
+  },
+  {
+    "project_name": "Bonos de Carbono-San Jos\u00e9 del Rinc\u00f3n-Mariposa Monarca-Ejido Rosa de Palo Amarillo",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.0
+  },
+  {
+    "project_name": "Bonos de Carbono-San Jos\u00e9 del Rinc\u00f3n-Mariposa Monarca-Ejido San Felipe de Jes\u00fas",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.6
+  },
+  {
+    "project_name": "Proyecto Forestal de Carbono Ejido Madera",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "EJIDO LAS MILPAS Y ANEXOS",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 4.8
+  },
+  {
+    "project_name": "COMUNIDAD SANTA ANA",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.5
+  },
+  {
+    "project_name": "EJIDO OSOS BRAVOS Y ANEXOS",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "PREDIO RUSTICO DENOMINADO ZALEAS",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.5
+  },
+  {
+    "project_name": "Ejido Pozo Pirata",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.9
+  },
+  {
+    "project_name": "Ejido Piedras Negras",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.5
+  },
+  {
+    "project_name": "Ejido Gavilanes",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.0
+  },
+  {
+    "project_name": "Bonos Comunitarios:Ejido Lazaro Cardenas",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2_Ejido Kankabchen",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.0
+  },
+  {
+    "project_name": "Bonos Comunitarios CO2_Ejido X-yatil",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "Klamath Forest Carbon Project",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.1
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono del Ejido 20 de Noviembre",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.3
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono del Ejido \u00c1lvaro Obreg\u00f3n",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono del Ejido Xmejia",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.0
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN LOS BOSQUES DEL EJIDO SAN PABLO, MUNICIPIO DE PUEBLO NUEVO, ESTADO DE DURANGO, MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.7
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN LOS BOSQUES DE CONIFERAS Y LATIFOLIADAS EN EL EJIDO CHAVARRIA VIEJO,MUNICIPIO DE PUEBLO NUEVO, ESTADO DE DURANGO, MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.3
+  },
+  {
+    "project_name": "CAPTURA DE CARBONO EN LOS BOSQUES DEL EJIDO EL LARGO Y ANEXOS, MUNICIPIO DE MADERA, ESTADO DE CHIHUAHUA, MEXICO",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "Carbono Forestal Ejido San Antonio de los Macedo",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.3
+  },
+  {
+    "project_name": "Carbono Forestal Ejido Navidad",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "Carbono Forestal Ejido Rinc\u00f3n de Mirandilla",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.7
+  },
+  {
+    "project_name": "Captura de carbono forestal en los Bienes Comunales de San Francisco Oxtotilpan",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido San Pedro Jacuaro",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.0
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido Otzumatl\u00e1n o R\u00edo de Parras",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.0
+  },
+  {
+    "project_name": "Captura de carbono forestal en la Comunidad Ind\u00edgena San Pedro Jacuaro",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.6
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido San Ignacio de Arareco",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Babureachi",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 11.2
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Bocoyna",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.0
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Talayotes",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.3
+  },
+  {
+    "project_name": "Comunidad El Tarahumar y Baj\u00edos del Tarahumar",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.8
+  },
+  {
+    "project_name": "MRC Albion IFM",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.6
+  },
+  {
+    "project_name": "Comunidad Tutuaca",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.3
+  },
+  {
+    "project_name": "Ejido Conoachi y Anexos",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.9
+  },
+  {
+    "project_name": "Ejido Basaseachi",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "Ejido Tutuaca",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "Ejido Heredia y Anexos",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal Ejido Pueblo Nuevo, Durango, M\u00e9xico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.7
+  },
+  {
+    "project_name": "Condue\u00f1azgo Memelichi",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.4
+  },
+  {
+    "project_name": "Conh\u00faas",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.9
+  },
+  {
+    "project_name": "ProCarbono: Ejido Quebrada de Cebollas",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.8
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Magullachi",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.5
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Molinares",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 19.6
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal N.C.P.A. Javier Rojo G\u00f3mez",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.5
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido Pichachi y sus Anexos",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.5
+  },
+  {
+    "project_name": "Proyecto de Captura de Carbono Forestal Ejido San Juanito",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "ProCarbono: Ejido Los Altares",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal Ejido Vencedores y Anexos, San Dimas, Durango, M\u00e9xico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.5
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal  Ejido las Pintas, San Dimas, Durango, M\u00e9xico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.3
+  },
+  {
+    "project_name": "Captura de Carbono en los Bosques de Coniferas y Latifoliadas del Ejido Mil Diez y Anexos, Municipio de Pueblo Nuevo, Estado de Durango, Mexico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.0
+  },
+  {
+    "project_name": "ProCarbono: Ejido Las Hacienditas y Anexos",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "ProCarbono: Ejido Silvestre Revueltas",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.7
+  },
+  {
+    "project_name": "ProCarbono: Ejido El Rinc\u00f3n",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.7
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal X-pichil",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.9
+  },
+  {
+    "project_name": "Carbono Forestal La Norte\u00f1ita",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.2
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Adolfo de la Huerta",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.4
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal San Felipe III",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.5
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Puerto Arturo",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.8
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal General Francisco Villa",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.8
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Chunkanan",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal NCPA Yalcoba Nuevo",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.4
+  },
+  {
+    "project_name": "EJIDO LLANO GRANDE",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.1
+  },
+  {
+    "project_name": "EJIDO CRUZ COLORADA",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.9
+  },
+  {
+    "project_name": "EJIDO SAN LUIS DEL VALLE",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.1
+  },
+  {
+    "project_name": "C.P. ALEJANDRO HERRERA",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.4
+  },
+  {
+    "project_name": "PRODUCTORA SILV\u00cdCOLA MARTE S.P.R. DE R.L.",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.0
+  },
+  {
+    "project_name": "EJIDO OCOJALA",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.2
+  },
+  {
+    "project_name": "EJIDO JONUCO PEDERNALES",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.2
+  },
+  {
+    "project_name": "Camino",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.1
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido San Juan Zit\u00e1cuaro",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.6
+  },
+  {
+    "project_name": "Captura de carbono forestal en la Comunidad Ind\u00edgena Carpinteros",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.4
+  },
+  {
+    "project_name": "Captura de Carbono en los Bosques de Con\u00edferas y Latifoliadas  del Ejido La Victoria y Anexos, Municipio de Pueblo Nuevo, Estado de Durango, M\u00e9xico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.3
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal Ejido San Jose de Miravalles, Municipio de San Dimas, Estado de Durango, Mexico",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.2
+  },
+  {
+    "project_name": "Captura de Carbono en los Bosques  del Ejido El Regocijo, Municipio de Durango, Estado de Durango, M\u00e9xico.",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.7
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Santa Elena",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.7
+  },
+  {
+    "project_name": "Kings Grove",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.7
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido San Jos\u00e9 Cieneguilla",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.9
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido San Felipe Cieneguilla",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.3
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad Santa Luc\u00eda Miahuatlan",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.1
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad Santa Catarina Cuixtla",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.3
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad San Pablo Coatl\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 0.0
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad San Agust\u00edn Mixtepec",
+    "registry": "CAR",
+    "vintage_year": 2025,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.6
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad San Jer\u00f3nimo Coatl\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.5
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal San Silverio",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.9
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Yalchen",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Captura de carbono en los bosques del Ejido Opopeo, Salvador Escalante, Michoacan",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.4
+  },
+  {
+    "project_name": "Proyecto Forestal de Carbono Ejido La Ciudad",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.3
+  },
+  {
+    "project_name": "Carbono Forestal Redondeados",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.5
+  },
+  {
+    "project_name": "Ejido La Florida San Dimas, Durango",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.8
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido El Tule y Portugal",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.6
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Llano Blanco",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.3
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Chontecomatl\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.7
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Lachivit\u00f3",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.0
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena San Francisco",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.5
+  },
+  {
+    "project_name": "Biorodal: Carbono Forestal Otilio Monta\u00f1o",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.2
+  },
+  {
+    "project_name": "Carbono Forestal La Catedral",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 9.0
+  },
+  {
+    "project_name": "BONOS X-HAZIL DE LA RUTA SIAN KA\u00b4AN",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.6
+  },
+  {
+    "project_name": "BONOS AROMA DEL MAYAB",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.7
+  },
+  {
+    "project_name": "BONOS LAGUNA S\u00cdJIL NOH-H\u00c1",
+    "registry": "CAR",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 13.6
+  },
+  {
+    "project_name": "Bienes Comunales deTeococuilco de Marcos P\u00e9rez",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.7
+  },
+  {
+    "project_name": "Captura de carbono forestal en el ejido El Paso",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Comunidad Yesqueros",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.0
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Comunidad San Ignacio",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Comunidad La Soledad",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "ProCarbono: Ejido Cienega de Salpica el Agua",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.1
+  },
+  {
+    "project_name": "ProCarbono: Ejido Laguna de la Chaparra",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 2.8
+  },
+  {
+    "project_name": "ProCarbono: Ejido Ca\u00f1ada de San Miguel el Negro y Anexos",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.9
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Kankabchen",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 1.5
+  },
+  {
+    "project_name": "Manejo Forestal Mejorado La Esperanza",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.6
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Matamoros",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.4
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Zamora",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.2
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Laguna Guerrero",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.3
+  },
+  {
+    "project_name": "Ejido Pe\u00f1uelas Pueblo Nuevo",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.4
+  },
+  {
+    "project_name": "Captura de Carbono Forestal, Peque\u00f1a Propiedad Rancho Chocua",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 23.8
+  },
+  {
+    "project_name": "McCloud Forest Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.9
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal San Miguel Cuevas",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.9
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal San Miguel Achiutla",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.7
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal MFM Jayacatlan",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.3
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal MFM Tejotepec",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Santa Maria del Rosario",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "Restauraci\u00f3n Forestal Santiago Nacaltepec",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.9
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Villa Madero",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Turir\u00e1n",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.9
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Las Cuevas",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.1
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Lagunilla o El Jaral",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.7
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido San Isidro Alta Huerta",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Jes\u00fas del Monte",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.4
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Comunidad Ind\u00edgena de Jauja",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 12.7
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido Jauja",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 18.9
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en el Ejido San Jos\u00e9 de las Torres",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.4
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Comunidad Ind\u00edgena Barrio de San Francisco",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.2
+  },
+  {
+    "project_name": "Proyecto Forestal de Carbono Comunidad San Bernardino de Milpillas Chico",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.6
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Baborigame",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal Ejido Naranjal Poniente, Municipio de Felipe Carrillo Puerto, Estado de Quintana Roo, Mexico",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "XICO2e Carbono Forestal Ejido Noh Bec, Municipio de Felipe Carrillo Puerto, Estado de Quintana Roo, Mexico",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 14.4
+  },
+  {
+    "project_name": "Captura de Carbono Forestal en la Peque\u00f1a Propiedad El Zapatero",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 21.2
+  },
+  {
+    "project_name": "Captura de Carbono en los Bosques de Con\u00edferas y Latifoliadas  del Ejido el Alamito, Municipio de Santiago Papasquiaro, Estado de Durango",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 6.7
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Cebadilla de Dolores",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.3
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Leapi",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.6
+  },
+  {
+    "project_name": "Carbono, Agua y Biodiversidad Ind\u00edgena Lachixio",
+    "registry": "CAR",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 3.2
+  },
+  {
+    "project_name": "Proyecto de carbono Ejido Los Gavilanes , San Dimas, Durango",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.9
+  },
+  {
+    "project_name": "Captura de Carbono en los Bosques del Ejido El Encinal, Municipio de Durango, Estado de Durango, M\u00e9xico.",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Agua Amarga",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.7
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Bienes Comunales",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 8.2
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Coatepec Harinas",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.3
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Loma Alta",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.2
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Palo Seco",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 15.7
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido La Trinidad y sus Anexos",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.4
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad Santiago Laxopa",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad Santa Mar\u00eda Yalina",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.0
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Comunidad San Francisco La Reforma",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.2
+  },
+  {
+    "project_name": "Proyecto Forestal de Carbono Comunidad San Mateo La Reforma II",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.2
+  },
+  {
+    "project_name": "Proyecto Forestal de Carbono Comunidad Santa Mar\u00eda Totomoxtla",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 16.3
+  },
+  {
+    "project_name": "Proyecto Forestal de Captura de Carbono Ejido Salsipuedes",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.7
+  },
+  {
+    "project_name": "Richardson Ranch",
+    "registry": "CAR",
+    "vintage_year": 2025,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.0
+  },
+  {
+    "project_name": "Blue Source - Alford Improved Forest Management Project",
+    "registry": "CAR",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 10.6
+  },
+  {
+    "project_name": "Comunidad San Antonio",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 22.5
+  },
+  {
+    "project_name": "Comunidad El Platanar",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.2
+  },
+  {
+    "project_name": "Carbono Forestal Ejido El Maguey",
+    "registry": "CAR",
+    "vintage_year": 2024,
+    "is_anomaly": false,
+    "anomaly_risk_score": 17.8
+  },
+  {
+    "project_name": "Chiwi",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 7.1
+  },
+  {
+    "project_name": "Carbono Forestal Comunidad San Mart\u00edn Buenavista",
+    "registry": "CAR",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 5.8
+  },
+  {
+    "project_name": "BaumInvest Reforestation Project",
+    "registry": "GOLD",
+    "vintage_year": 2008,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.0
+  },
+  {
+    "project_name": "Tropical Mix",
+    "registry": "GOLD",
+    "vintage_year": 1996,
+    "is_anomaly": true,
+    "anomaly_risk_score": 96.2
+  },
+  {
+    "project_name": "ArBolivia- Phase II",
+    "registry": "GOLD",
+    "vintage_year": 2008,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.3
+  },
+  {
+    "project_name": "Kikonda Forest Reserve",
+    "registry": "GOLD",
+    "vintage_year": 2008,
+    "is_anomaly": true,
+    "anomaly_risk_score": 67.3
+  },
+  {
+    "project_name": "Sodo Ethiopia",
+    "registry": "GOLD",
+    "vintage_year": 2008,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.0
+  },
+  {
+    "project_name": "Afforestation Project in Tongliao Inner Mongolia",
+    "registry": "GOLD",
+    "vintage_year": 2018,
+    "is_anomaly": true,
+    "anomaly_risk_score": 66.2
+  },
+  {
+    "project_name": "Australian Yarra Yarra Biodiversity Project",
+    "registry": "GOLD",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 62.7
+  },
+  {
+    "project_name": "Afforestation on the Big Island of Hawaii: Restoring native hardwood forests and enhancing multiple ecosystem services",
+    "registry": "GOLD",
+    "vintage_year": 2014,
+    "is_anomaly": true,
+    "anomaly_risk_score": 71.7
+  },
+  {
+    "project_name": "Afforestation on Degraded Lands in Mountainous Areas of Northern Guangdong China",
+    "registry": "GOLD",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 60.0
+  },
+  {
+    "project_name": "Reforestation Sierra Piura",
+    "registry": "GOLD",
+    "vintage_year": 2011,
+    "is_anomaly": true,
+    "anomaly_risk_score": 80.7
+  },
+  {
+    "project_name": "ACP Sustainable Forest Cover Establishment Project",
+    "registry": "GOLD",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 60.1
+  },
+  {
+    "project_name": "WithOneSeed Timor Leste Community Forestry Program",
+    "registry": "GOLD",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.0
+  },
+  {
+    "project_name": "Reforestation Program in the Southeastern Region of Nicaragua on degraded pastureland",
+    "registry": "GOLD",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 62.4
+  },
+  {
+    "project_name": "Vichada Climate Reforestation Project (PAZ)",
+    "registry": "GOLD",
+    "vintage_year": 2007,
+    "is_anomaly": true,
+    "anomaly_risk_score": 74.2
+  },
+  {
+    "project_name": "Bagepalli CDM Reforestation Programme",
+    "registry": "GOLD",
+    "vintage_year": 2005,
+    "is_anomaly": true,
+    "anomaly_risk_score": 76.1
+  },
+  {
+    "project_name": "Aprosacao Reforestation Project: community reforestation and agroforestry with small-scale cocoa farmers in Honduras.",
+    "registry": "GOLD",
+    "vintage_year": 2016,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.5
+  },
+  {
+    "project_name": "EcoMakala Virunga Reforestation project",
+    "registry": "GOLD",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 62.5
+  },
+  {
+    "project_name": "Markham Valley A/R Project",
+    "registry": "GOLD",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 60.5
+  },
+  {
+    "project_name": "Humbo Ethiopia Assisted Natural Regeneration Project",
+    "registry": "GOLD",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 64.0
+  },
+  {
+    "project_name": "JOil Jatropha plantation in Ghana",
+    "registry": "GOLD",
+    "vintage_year": 2018,
+    "is_anomaly": true,
+    "anomaly_risk_score": 65.8
+  },
+  {
+    "project_name": "Panama Tropical Reforestation",
+    "registry": "GOLD",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.0
+  },
+  {
+    "project_name": "Project Serra da Mantiqueira",
+    "registry": "ISO",
+    "vintage_year": 2024,
+    "is_anomaly": true,
+    "anomaly_risk_score": 79.0
+  },
+  {
+    "project_name": "Charm Range & Plains Biochar",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 94.6
+  },
+  {
+    "project_name": "Project Ara\u00e7ari",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 82.9
+  },
+  {
+    "project_name": "Project Nandani",
+    "registry": "ISO",
+    "vintage_year": 2026,
+    "is_anomaly": true,
+    "anomaly_risk_score": 100.0
+  },
+  {
+    "project_name": "Humboldt Sawmill Company (HSC)",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 85.3
+  },
+  {
+    "project_name": "Darjeeling Revival: Alt x MOL",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 76.7
+  },
+  {
+    "project_name": "Project Cajueiro",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 89.8
+  },
+  {
+    "project_name": "Darjeeling Revival: Monsoon Harvest",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 75.4
+  },
+  {
+    "project_name": "Project Carcar\u00e1",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 84.9
+  },
+  {
+    "project_name": "A Biochar Project at Satyapura",
+    "registry": "ISO",
+    "vintage_year": 2025,
+    "is_anomaly": true,
+    "anomaly_risk_score": 99.9
+  },
+  {
+    "project_name": "Reforestation of degraded grasslands in Uchindile & Mapanda, Tanzania",
+    "registry": "VCS",
+    "vintage_year": 2008,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.7
+  },
+  {
+    "project_name": "Promoting Sustainable Development through Natural Rubber Tree Plantations in Guatemala",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.5
+  },
+  {
+    "project_name": "The Kasigau Corridor REDD Project \u2013 Phase I Rukinga Sanctuary",
+    "registry": "VCS",
+    "vintage_year": 2005,
+    "is_anomaly": false,
+    "anomaly_risk_score": 60.5
+  },
+  {
+    "project_name": "Restoration of degraded areas and reforestation in C\u00e1ceres and Cravo Norte, Colombia",
+    "registry": "VCS",
+    "vintage_year": 2002,
+    "is_anomaly": true,
+    "anomaly_risk_score": 73.7
+  },
+  {
+    "project_name": "Protection of a Tasmanian Native Forest (Project 3: Peter Downie)",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.9
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 001",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.5
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 002",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.6
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 003",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.7
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 004",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 47.5
+  },
+  {
+    "project_name": "Protection of a Tasmanian native forest - Project 1 - REDD Forests Pilot",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 57.6
+  },
+  {
+    "project_name": "Darkwoods Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2008,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.0
+  },
+  {
+    "project_name": "The Kasigau Corridor REDD Project - Phase II The Community Ranches",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 56.8
+  },
+  {
+    "project_name": "Redd Forests Grouped Project: Protection of Tasmanian Native Forest",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.3
+  },
+  {
+    "project_name": "Boden Creek Ecological Preserve Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2005,
+    "is_anomaly": true,
+    "anomaly_risk_score": 67.7
+  },
+  {
+    "project_name": "Reforestation of pastures in Campo Verde with native species, Pucallpa, Peru",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.0
+  },
+  {
+    "project_name": "Multi-Species Reforestation in Mato Grosso, Brazil",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.7
+  },
+  {
+    "project_name": "INFAPRO Rehabilitation of logged-over dipterocarp forest in Sabah, Malaysia",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 47.2
+  },
+  {
+    "project_name": "Natural High Forest Rehabilitation Project on degraded land of Kibale National Park",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.3
+  },
+  {
+    "project_name": "Rimba Raya Biodiversity Reserve Project",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": true,
+    "anomaly_risk_score": 67.3
+  },
+  {
+    "project_name": "Reforestation of degraded land in Chhattisgarh, India",
+    "registry": "VCS",
+    "vintage_year": 2005,
+    "is_anomaly": true,
+    "anomaly_risk_score": 68.8
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 005",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.9
+  },
+  {
+    "project_name": "Alto Huayabamba: Carbon Dioxide sequestration through reforestation with small-scale farmers in Peru, San Martin Region",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.9
+  },
+  {
+    "project_name": "Bukaleba Forest Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.3
+  },
+  {
+    "project_name": "Bull Run Overseas Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.5
+  },
+  {
+    "project_name": "Protection of the Bolivian Amazon Forest",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.5
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 001",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.4
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 002",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.3
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 004",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.2
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 003",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.6
+  },
+  {
+    "project_name": "Cikel Brazilian Amazon REDD APD Project   Avoiding Planned Deforestation",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.7
+  },
+  {
+    "project_name": "Madre de Dios Amazon REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.0
+  },
+  {
+    "project_name": "Rio Bravo Climate Action Project",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.8
+  },
+  {
+    "project_name": "The Choc\u00f3-Dari\u00e9n Conservation Corridor REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.8
+  },
+  {
+    "project_name": "REDD project in Brazil nut concessions in Madre de Dios, Peru",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.4
+  },
+  {
+    "project_name": "Afognak Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2008,
+    "is_anomaly": false,
+    "anomaly_risk_score": 52.4
+  },
+  {
+    "project_name": "FLORESTAL SANTA MARIA PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.6
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 006",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.0
+  },
+  {
+    "project_name": "KARIBA REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 57.1
+  },
+  {
+    "project_name": "Reduced Emissions from Deforestation and Degradation in Community Forests \u2013 Oddar Meanchey, Cambodia",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.6
+  },
+  {
+    "project_name": "EDS GREEN CARBON PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2005,
+    "is_anomaly": true,
+    "anomaly_risk_score": 64.9
+  },
+  {
+    "project_name": "The Mai Ndombe REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.8
+  },
+  {
+    "project_name": "Alto Mayo Conservation Initiative",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.1
+  },
+  {
+    "project_name": "The Paraguay Forest Conservation Project - Reduction of GHG emissions from deforestation and forest degradation in the Chaco-Pantanal ecosystem",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.7
+  },
+  {
+    "project_name": "BIOCORREDOR MARTIN SAGRADO REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.3
+  },
+  {
+    "project_name": "'Guanar\u00e9' Forest Plantations on degraded grasslands under extensive grazing",
+    "registry": "VCS",
+    "vintage_year": 2007,
+    "is_anomaly": true,
+    "anomaly_risk_score": 70.0
+  },
+  {
+    "project_name": "Lumin/Eucapine Uruguay Forest Plantations on degraded grasslands under extensive grazing",
+    "registry": "VCS",
+    "vintage_year": 2006,
+    "is_anomaly": true,
+    "anomaly_risk_score": 73.3
+  },
+  {
+    "project_name": "'El Arriero ' Afforestation on degraded grasslands under extensive grazing project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.6
+  },
+  {
+    "project_name": "Forteko afforestation on degraded grasslands under extensive grazing",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.8
+  },
+  {
+    "project_name": "The Purus Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.2
+  },
+  {
+    "project_name": "ITAA afforestation on degraded grasslands under extensive grazing",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.7
+  },
+  {
+    "project_name": "RMDLT Portel - Para REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.8
+  },
+  {
+    "project_name": "Pacajai REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.5
+  },
+  {
+    "project_name": "Cordillera Azul National Park REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.7
+  },
+  {
+    "project_name": "Reforestation of Degraded Forest Reserves in Ghana",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.5
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 005",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.4
+  },
+  {
+    "project_name": "TIST Program in India, VCS-001",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.0
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS 006",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.4
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS 009",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.7
+  },
+  {
+    "project_name": "Community-based reforestation project on degraded lands in Uttar Pradesh, India by Indian Farm Forestry Development Co-operative Limited",
+    "registry": "VCS",
+    "vintage_year": 2008,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.7
+  },
+  {
+    "project_name": "North Pikounda REDD+",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.4
+  },
+  {
+    "project_name": "Reforesting Degraded Lands in Chile through the use of Mycorrhizal Inoculation",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.6
+  },
+  {
+    "project_name": "Bethlehem Authority Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.1
+  },
+  {
+    "project_name": "Reduction of deforestation and degradation in Tambopata National Reserve and Bahuaja-Sonene National Park within the area of Madre de Dios region \u2013Peru",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.6
+  },
+  {
+    "project_name": "Jatropha Agroforestry Senegal",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 64.4
+  },
+  {
+    "project_name": "EcoPlanet Bamboo Central America - Reforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.0
+  },
+  {
+    "project_name": "Ecomapua Amazon REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2003,
+    "is_anomaly": true,
+    "anomaly_risk_score": 64.8
+  },
+  {
+    "project_name": "The Russas Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.5
+  },
+  {
+    "project_name": "The Valparaiso Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.5
+  },
+  {
+    "project_name": "JARI/AMAP\u00c1 REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.3
+  },
+  {
+    "project_name": "Suru\u00ed Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.4
+  },
+  {
+    "project_name": "April Salumei Rainforest Community Conservation Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.9
+  },
+  {
+    "project_name": "Yacumama Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.7
+  },
+  {
+    "project_name": "Fresh Breeze Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.7
+  },
+  {
+    "project_name": "Amazon Rio IFM",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.8
+  },
+  {
+    "project_name": "Shade Coffee & Cacao Reforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.6
+  },
+  {
+    "project_name": "Jiangxi Province Le'an County Forest Farm Carbon Sink Project",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.1
+  },
+  {
+    "project_name": "Kulera Landscape REDD+ Program for Co-Managed Protected Areas, Malawi",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.9
+  },
+  {
+    "project_name": "AVOIDING PLANNED DEFORESTATION AND DEGRADATION IN THE VALDIVIAN COASTAL RESERVE, CHILE",
+    "registry": "VCS",
+    "vintage_year": 2004,
+    "is_anomaly": true,
+    "anomaly_risk_score": 66.5
+  },
+  {
+    "project_name": "Gola REDD project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.3
+  },
+  {
+    "project_name": "LOWER ZAMBEZI REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.4
+  },
+  {
+    "project_name": "The Makira Forest Protected Area in Madagascar",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.5
+  },
+  {
+    "project_name": "Evio Kui\u00f1aji Ese\u00b4Eja Cuana, To Mitigate Climate Change, Madre de Dios - Per\u00fa",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.3
+  },
+  {
+    "project_name": "Reforestation with Rubber on degraded lands of Colombia",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.7
+  },
+  {
+    "project_name": "New Leaf Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 47.6
+  },
+  {
+    "project_name": "Carbon Emissions Reduction Project in the Corridor Ankeniheny-Zahamena (CAZ) Protected Area, Madagascar",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.4
+  },
+  {
+    "project_name": "Reforestation Grouped Project at Pratigi Environmental Protection Area",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.1
+  },
+  {
+    "project_name": "Village Climate Solutions",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.1
+  },
+  {
+    "project_name": "Laguna Seca Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.6
+  },
+  {
+    "project_name": "Araku Valley Livelihood Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 32.9
+  },
+  {
+    "project_name": "Ma\u00edsa REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.8
+  },
+  {
+    "project_name": "Reforestation Project in Yingjing County, Sichuan Province",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.7
+  },
+  {
+    "project_name": "Bale Mountains Eco-region REDD+ project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.8
+  },
+  {
+    "project_name": "Isangi REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2009,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.5
+  },
+  {
+    "project_name": "Forest Management to reduce deforestation and degradation in Shipibo Conibo and Cacataibo Indigenous communities of Ucayali region",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.6
+  },
+  {
+    "project_name": "Reforestation Project in Qinghai Province 2012",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.4
+  },
+  {
+    "project_name": "EFM Improved Forest Management Group Project",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.7
+  },
+  {
+    "project_name": "Lock Haven Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.9
+  },
+  {
+    "project_name": "Forestry Project for the Basin of the Chinchina River, an Environmental and Productive Alternative for the City and the Region",
+    "registry": "VCS",
+    "vintage_year": 2003,
+    "is_anomaly": true,
+    "anomaly_risk_score": 70.1
+  },
+  {
+    "project_name": "The Envira Amazonia Project - A Tropical Forest Conservation Project in Acre, Brazil",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.5
+  },
+  {
+    "project_name": "Acapa -\u00ad Bajo Mira Y Frontera REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.4
+  },
+  {
+    "project_name": "Carmen del Dari\u00e9n (CDD) REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.6
+  },
+  {
+    "project_name": "SIVIR\u00da-USARAG\u00c1-PIZARRO-PILIZ\u00c1 (SUPP) REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.4
+  },
+  {
+    "project_name": "Cajambre REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.1
+  },
+  {
+    "project_name": "Bajo Calima y Bah\u00eda M\u00e1laga (BCBM) REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.9
+  },
+  {
+    "project_name": "Rio Pepe y ACABA REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.5
+  },
+  {
+    "project_name": "Mutat\u00e1 REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.5
+  },
+  {
+    "project_name": "Concosta REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.5
+  },
+  {
+    "project_name": "The Paraguay Forest Conservation Project \u2013 Reduction of GHG Emissions from Deforestation and Forest Degradation in the Parana Atlantic Ecosystem \u2013 Forest Protection in the La Amistad Community, San Rafael",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.4
+  },
+  {
+    "project_name": "Chyulu Hills REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "Jubilaci\u00f3n Segura : Agroforestry And Reforestation With Smallscale Farmers in Peru",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.7
+  },
+  {
+    "project_name": "RESEX Rio Preto-Jacund\u00e1 REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.4
+  },
+  {
+    "project_name": "Inner Mongolia Chao'er Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2010,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.3
+  },
+  {
+    "project_name": "Grouped Project for Commercial Forest Plantations Initiatives in the Department of Vichada",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.1
+  },
+  {
+    "project_name": "COMACO Landscape Management Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "ECO2 Rubber Forests Guatemala",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.1
+  },
+  {
+    "project_name": "Lacandon \u2013 Forest for life REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.6
+  },
+  {
+    "project_name": "Yunnan Kunming Liangqu Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.0
+  },
+  {
+    "project_name": "Bosques del Uruguay Afforestation through High Quality Timber in Grasslands Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.3
+  },
+  {
+    "project_name": "Agroforestry and forest restoration for ecological connectivity, poverty reduction and biodiversity conservation in Cerro San Gil, Caribbean Guatemala",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.4
+  },
+  {
+    "project_name": "REDD+ Project Resguardo Indigena Unificado Selva de Mataven (RIU SM)",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.9
+  },
+  {
+    "project_name": "Manoa REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.5
+  },
+  {
+    "project_name": "Fujian Yong'an Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.2
+  },
+  {
+    "project_name": "REDD+ Project for Caribbean Guatemala: The Conservation Coast",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.1
+  },
+  {
+    "project_name": "Reduced Emissions from Deforestation and Degradation in Keo Seima Wildlife Sanctuary",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.6
+  },
+  {
+    "project_name": "Fortaleza Ituxi REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.9
+  },
+  {
+    "project_name": "Fazenda Sao Paulo Afforestation",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 32.8
+  },
+  {
+    "project_name": "Yunnan Xishuangbanna Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2012,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.6
+  },
+  {
+    "project_name": "Regenerating Colombian Coffee Ecosystems",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.1
+  },
+  {
+    "project_name": "Mitigation of GHG: Rubber based agro-forestry system for sustainable development and poverty reduction in Pakkading, Bolikhamsay Province, Lao PDR",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.9
+  },
+  {
+    "project_name": "Agrocortex REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.9
+  },
+  {
+    "project_name": "Tumring REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.0
+  },
+  {
+    "project_name": "PAYMENT FOR ENVIRONMENTAL SERVICES SCHEME FOR FOREST MANAGEMENT AND CONSERVATION OF WATER SOURCES IN THE JURISDICTION OF CORPOCHIVOR",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 64.2
+  },
+  {
+    "project_name": "Inner Mongolia Wu'erqihan IFM (conversion of logged to protected forest) Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.0
+  },
+  {
+    "project_name": "Inner Mongolia Keyihe IFM (conversion of logged to protected forest) Project",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.4
+  },
+  {
+    "project_name": "Reforestation with Teak  CO2e TEAKMEX",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.8
+  },
+  {
+    "project_name": "Southern Cardamom REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.3
+  },
+  {
+    "project_name": "Grouped Project for restoration of degraded lands in Jaguar Corridors, Colombia",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.0
+  },
+  {
+    "project_name": "Luangwa Community Forests Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.7
+  },
+  {
+    "project_name": "Riscales REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2014,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.7
+  },
+  {
+    "project_name": "Jari/Par\u00e1 REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.8
+  },
+  {
+    "project_name": "Afforestation Project in Xining City",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.5
+  },
+  {
+    "project_name": "Qinghai Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.5
+  },
+  {
+    "project_name": "Haidong Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.6
+  },
+  {
+    "project_name": "Qianxinan Afforestation Project in Guizhou Province",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.4
+  },
+  {
+    "project_name": "Hechu Afforestation Project in Anhui Province",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.4
+  },
+  {
+    "project_name": "Puzhen Afforestation Project in Guizhou Province",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.5
+  },
+  {
+    "project_name": "Xiguan Afforestation Project in Guizhou Province",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.3
+  },
+  {
+    "project_name": "XinJiang Makit County Afforestation Carbon Sequestration Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.2
+  },
+  {
+    "project_name": "REDD+ PROJECT IN THE ALTO HUAYABAMBA CONSERVATION CONCESSION (CCAH)",
+    "registry": "VCS",
+    "vintage_year": 2013,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.2
+  },
+  {
+    "project_name": "Jilin Linjiang Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.9
+  },
+  {
+    "project_name": "Hunan Northern and Northwestern Area Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.6
+  },
+  {
+    "project_name": "Ntakata Mountains REDD",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.6
+  },
+  {
+    "project_name": "Makame Savannah REDD",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.9
+  },
+  {
+    "project_name": "King County Rural Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.7
+  },
+  {
+    "project_name": "Quebec Forestry Sector Carbon Sequestration Grouped Project Pivot",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.7
+  },
+  {
+    "project_name": "Henan Nanzhao Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 32.4
+  },
+  {
+    "project_name": "Hubei Hongshan IFM (Conversion of Logged to Protected Forest) Project",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.1
+  },
+  {
+    "project_name": "Floresta Verde REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.6
+  },
+  {
+    "project_name": "Guinan Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.5
+  },
+  {
+    "project_name": "Fazenda Nascente do Luar Agroforestry Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.9
+  },
+  {
+    "project_name": "Qianbei Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.8
+  },
+  {
+    "project_name": "Liangdu Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.5
+  },
+  {
+    "project_name": "Revegetation with fruit trees in North Manica Province, Mozambique",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.3
+  },
+  {
+    "project_name": "Chudu Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.1
+  },
+  {
+    "project_name": "HENAN FANGCHENG AND TANGHE AFFORESTATION PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.3
+  },
+  {
+    "project_name": "Rio Anapu-Pacaja REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.7
+  },
+  {
+    "project_name": "The Jaguar Amazon REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.0
+  },
+  {
+    "project_name": "BLUE CARBON PROJECT GULF OF MORROSQUILLO \"VIDA MANGLAR\"",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.7
+  },
+  {
+    "project_name": "NIHT Topaiyo REDD +",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.1
+  },
+  {
+    "project_name": "REDD+ Project Pueblos ind\u00edgenas resguardando la selva",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.3
+  },
+  {
+    "project_name": "Anhuang Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.9
+  },
+  {
+    "project_name": "REDD+ Project Magnolios de Yarumal",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.6
+  },
+  {
+    "project_name": "Agroforestry plantation Bateke Plateau, Republic of Congo",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 32.0
+  },
+  {
+    "project_name": "Monet Forest Conservation Project",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.8
+  },
+  {
+    "project_name": "COMMUNITY BASED AVOIDED DEFORESTATION PROJECT IN GUINEA-BISSAU - REDD",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 37.0
+  },
+  {
+    "project_name": "Guangxi Jinxiu IFM (conversion  of  logged  to  protected  forest)  Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.2
+  },
+  {
+    "project_name": "Guangxi Huanjiang IFM (conversion of logged to protected forest) Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.4
+  },
+  {
+    "project_name": "TIST Program in Kenya, VCS-CCB 010",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.8
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS-CCB 010",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.3
+  },
+  {
+    "project_name": "Green Gold Loreto 1",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.0
+  },
+  {
+    "project_name": "Afforestation in cooperation with local landowners for Forestal San Pedro S.A",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.0
+  },
+  {
+    "project_name": "Integrated Project for Reforestation and Agroforestry on Degraded lands in Nicaragua",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.6
+  },
+  {
+    "project_name": "Afforestation in Eucalyptus and Acacia plantations for Burapha Agroforestry Co., Ltd.",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.9
+  },
+  {
+    "project_name": "Forestal Apepu Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.8
+  },
+  {
+    "project_name": "Zhangye City Afforestation Project in Gansu Province",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.9
+  },
+  {
+    "project_name": "Yellow Ip\u00ea Grouped REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.7
+  },
+  {
+    "project_name": "Jilin Sanchazi Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.3
+  },
+  {
+    "project_name": "Miaoling Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.7
+  },
+  {
+    "project_name": "Huadu Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.9
+  },
+  {
+    "project_name": "Rotunda Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.2
+  },
+  {
+    "project_name": "Liugui Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.1
+  },
+  {
+    "project_name": "Gansu Tianshui Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.0
+  },
+  {
+    "project_name": "Reforestation of Degraded Lands in Sierra Leone",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 31.2
+  },
+  {
+    "project_name": "Reforestation of degraded land by MTPL in India",
+    "registry": "VCS",
+    "vintage_year": 2011,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.0
+  },
+  {
+    "project_name": "Gansu Dingxi Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.1
+  },
+  {
+    "project_name": "REFORESTATION OF DEGRADED FOREST RESERVE AREAS IN GHANA, WEST AFRICA",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.9
+  },
+  {
+    "project_name": "Bosques del Uruguay II (BDU II) Afforestation through High Quality Timber in Grasslands Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.4
+  },
+  {
+    "project_name": "Mindanao Tree Planting Program for our Climate and Communities (MinTrees)",
+    "registry": "VCS",
+    "vintage_year": 2015,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "Gansu Lanzhou Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.4
+  },
+  {
+    "project_name": "Shanxi Loufan Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "Afforestation and restoration of degraded forests in Eastern Paraguay or Forestal Azul Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 29.3
+  },
+  {
+    "project_name": "Agroforestry and reforestation with small-scale farmers in Uganda",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 44.6
+  },
+  {
+    "project_name": "Mahogany Plantation in India",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.1
+  },
+  {
+    "project_name": "Generation Forest Group Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.8
+  },
+  {
+    "project_name": "Tavolo Community Forest Conservation Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.8
+  },
+  {
+    "project_name": "TIST Program in Uganda, VCS-CCB 011",
+    "registry": "VCS",
+    "vintage_year": 2003,
+    "is_anomaly": true,
+    "anomaly_risk_score": 70.0
+  },
+  {
+    "project_name": "Afforestation of degraded grasslands in Caazapa and Guair\u00e1",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.7
+  },
+  {
+    "project_name": "TAHUAMANU AMAZON REDD PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.6
+  },
+  {
+    "project_name": "UNITOR REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.7
+  },
+  {
+    "project_name": "CHINKO CONSERVATION AREA REDD+ PROJECT, CENTRAL AFRICAN REPUBLIC",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.4
+  },
+  {
+    "project_name": "AFFORESTATION OF DEGRADED GRASSLANDS IN VICHADA, COLOMBIA",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.5
+  },
+  {
+    "project_name": "Cumare carbon project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.4
+  },
+  {
+    "project_name": "Pendjari and W-Benin National Parks REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 38.3
+  },
+  {
+    "project_name": "EVERGREEN REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.8
+  },
+  {
+    "project_name": "BRAZILIAN AMAZON APD GROUPED PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.5
+  },
+  {
+    "project_name": "Improving rural livelihood through agroforestry practices in Punjab, India- I",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.5
+  },
+  {
+    "project_name": "Improving rural livelihood through agroforestry practices in Punjab, India- II",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 30.8
+  },
+  {
+    "project_name": "Southern Paraguay Sustainable Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 25.7
+  },
+  {
+    "project_name": "ABC Norte REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 36.9
+  },
+  {
+    "project_name": "Yunnan Qiubei Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.4
+  },
+  {
+    "project_name": "The Serra do Amolar REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.0
+  },
+  {
+    "project_name": "Montes del Este afforestation through high quality timber in degraded grasslands",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "Fujian Qingliu IFM (conversion of logged to protected forest) Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 35.9
+  },
+  {
+    "project_name": "KUAMUT RAINFOREST CONSERVATION PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.2
+  },
+  {
+    "project_name": "Unit\u00e1n afforestation and reforestation of grazing lands project",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.5
+  },
+  {
+    "project_name": "CORAZ\u00d3N VERDE DEL CHACO PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.9
+  },
+  {
+    "project_name": "Komaza Smallholder Farmer Forestry Kenya",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.4
+  },
+  {
+    "project_name": "Reforestation grouped project Norteak Nicaragua",
+    "registry": "VCS",
+    "vintage_year": 2016,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.0
+  },
+  {
+    "project_name": "HENAN YIYANG AFFORESTATION PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 28.0
+  },
+  {
+    "project_name": "Juruena River REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 58.3
+  },
+  {
+    "project_name": "CONDOTO REDD+",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.9
+  },
+  {
+    "project_name": "The Paraguayan Chaco Neem Reforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 45.8
+  },
+  {
+    "project_name": "Wuwei City Afforestation Project in Gansu Province",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 27.3
+  },
+  {
+    "project_name": "Saving Colombia's Cloud Forest",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.7
+  },
+  {
+    "project_name": "Grouped Reforestation Project by Cropzone Agro Forestry Private Limited",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 34.9
+  },
+  {
+    "project_name": "Rio Madeira Grouped REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.6
+  },
+  {
+    "project_name": "Forest Conservation in Boumba-et-Ngoko",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.5
+  },
+  {
+    "project_name": "Niger Acacia Senegal Plantation Project - CER Conversion",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 33.4
+  },
+  {
+    "project_name": "OKA 2 PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.8
+  },
+  {
+    "project_name": "Feij\u00f3 REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 52.3
+  },
+  {
+    "project_name": "HG Afforestation Through High Quality Timber Over Degraded Grasslands",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.6
+  },
+  {
+    "project_name": "Hiwi REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.4
+  },
+  {
+    "project_name": "BigCoast Forest Climate Initiative",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.8
+  },
+  {
+    "project_name": "REGENERATING DEGRADED LANDS IN FLORIDA THROUGH PONGAMIA",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 48.4
+  },
+  {
+    "project_name": "XiCO2e: Mexican Reforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 26.4
+  },
+  {
+    "project_name": "THE ARR HORIZONTE CARBON PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.4
+  },
+  {
+    "project_name": "Westphalen Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2018,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.7
+  },
+  {
+    "project_name": "Kwamisa/Other reserves community Forest Project",
+    "registry": "VCS",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 62.5
+  },
+  {
+    "project_name": "Sustainable Agroforestry Cacao Meta, Colombia",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 50.5
+  },
+  {
+    "project_name": "Agroforestry plantations in India",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.4
+  },
+  {
+    "project_name": "Bamboo plantations by farmers and community in the country",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 42.8
+  },
+  {
+    "project_name": "Jutaituba REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 54.0
+  },
+  {
+    "project_name": "CAAPII REDD+ PROJECT",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 49.6
+  },
+  {
+    "project_name": "Selva Paranaense Vida Nativa - GS1",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 43.0
+  },
+  {
+    "project_name": "Ecobase Europe Afforestation Project",
+    "registry": "VCS",
+    "vintage_year": 2019,
+    "is_anomaly": false,
+    "anomaly_risk_score": 63.7
+  },
+  {
+    "project_name": "Selva de Urundel REDD+ Project",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 53.9
+  },
+  {
+    "project_name": "Silvopastoral carbon project of Uruguay",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": true,
+    "anomaly_risk_score": 72.6
+  },
+  {
+    "project_name": "Chestnut Carbon Conservation Project",
+    "registry": "VCS",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 61.6
+  },
+  {
+    "project_name": "Family Forest Carbon Program - Central Appalachia",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.0
+  },
+  {
+    "project_name": "Goldbeck Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 46.2
+  },
+  {
+    "project_name": "Urupianga Grouped REDD Project",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 55.2
+  },
+  {
+    "project_name": "Family Forest Carbon Project",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 39.4
+  },
+  {
+    "project_name": "Management of Community Forests for the Reduction of Deforestation in the Peruvian Amazon",
+    "registry": "VCS",
+    "vintage_year": 2021,
+    "is_anomaly": false,
+    "anomaly_risk_score": 52.1
+  },
+  {
+    "project_name": "Kijani Forestry smallholder farmer forestry project",
+    "registry": "VCS",
+    "vintage_year": 2022,
+    "is_anomaly": true,
+    "anomaly_risk_score": 75.5
+  },
+  {
+    "project_name": "Silvador Climate Action",
+    "registry": "VCS",
+    "vintage_year": 2020,
+    "is_anomaly": false,
+    "anomaly_risk_score": 41.5
+  },
+  {
+    "project_name": "Biochar Project-1 by WeAct",
+    "registry": "VCS",
+    "vintage_year": 2023,
+    "is_anomaly": true,
+    "anomaly_risk_score": 93.3
+  },
+  {
+    "project_name": "Project Reignite: Turning Farm Waste to Climate Action",
+    "registry": "VCS",
+    "vintage_year": 2023,
+    "is_anomaly": false,
+    "anomaly_risk_score": 62.4
+  },
+  {
+    "project_name": "Mixed afforestation with native and non-native species in Argentina-I",
+    "registry": "VCS",
+    "vintage_year": 2023,
+    "is_anomaly": true,
+    "anomaly_risk_score": 73.5
+  },
+  {
+    "project_name": "Brazil Cerrado 1",
+    "registry": "VCS",
+    "vintage_year": 2022,
+    "is_anomaly": false,
+    "anomaly_risk_score": 51.6
+  },
+  {
+    "project_name": "Blue Source-Alford Improved Forest Management Project",
+    "registry": "VCS",
+    "vintage_year": 2017,
+    "is_anomaly": false,
+    "anomaly_risk_score": 40.6
+  }
+]
