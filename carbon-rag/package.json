@@ -1,0 +1,38 @@
+{
+  "name": "carbon-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/api.js",
+  "scripts": {
+    "build": "tsc",
+    "ingest:pdf": "tsc && node dist/ingestPdf.js",
+    "ingest:knowledge": "tsc && node dist/knowledge/ingestKnowledge.js",
+    "api": "tsc && node dist/api.js",
+    "start": "npm run api",
+    "test": "tsc -p tsconfig.test.json && node --test .test-dist/test/analyze.test.js",
+    "test:analyze": "npm test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@langchain/core": "^1.2.9",
+    "@langchain/google-genai": "^2.3.0",
+    "@langchain/pinecone": "^1.0.3",
+    "@pinecone-database/pinecone": "^5.1.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pdf-parse": "^2.4.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.4.0",
+    "@types/pdf-parse": "^1.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
