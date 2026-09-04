@@ -1,7 +1,6 @@
 [build]
-  base = "carbon-credit-frontend"
-  publish = "dist"
-  command = "npm run build"
+  command = "cd carbon-credit-frontend && npm install && npm run build"
+  publish = "carbon-credit-frontend/dist"
 
 [[redirects]]
   from = "/*"
