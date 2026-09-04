@@ -1,5 +1,4 @@
 [build]
-  base = "carbon-credit-frontend"
   command = "npm run build"
   publish = "dist"
 
