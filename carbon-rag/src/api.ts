@@ -48,7 +48,11 @@ export function createApp(
     }
   });
 
-  app.post("/api/chat", async (req, res) => {
+  app.get("/", (_req, res) => {
+    res.json({ status: "ok", service: "carbon-rag" });
+  });
+
+  const handleChat = async (req: express.Request, res: express.Response) => {
     try {
       const request = parseChatRequest(req.body);
       const result = await runBhoomiChat(request);
@@ -77,7 +81,11 @@ export function createApp(
         error: "Unable to generate a chat response.",
       });
     }
-  });
+  };
+
+  app.post("/api/chat", handleChat);
+  app.post("/chat", handleChat);
+  app.post("/", handleChat);
 
   app.use(
     (

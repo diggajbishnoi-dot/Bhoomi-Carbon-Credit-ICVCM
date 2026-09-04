@@ -193,7 +193,8 @@ export async function runBhoomiChat(request: ChatRequest): Promise<ChatResponse>
   const knowledgeSnippets = knowledge.map((k) => `[${k.section}]: ${k.text}`).join("\n\n");
 
   // Call Google Generative AI
-  if (process.env.GOOGLE_API_KEY) {
+  const apiKey = process.env.GOOGLE_API_KEY || process.env.GEMINI_API_KEY;
+  if (apiKey) {
     try {
       const prompt = `You are Bhoomi Carbon AI, a helpful, knowledgeable assistant for the Bhoomi Carbon Platform.
 
@@ -208,7 +209,7 @@ ${listings.length > 0 ? `LIVE LISTINGS:\n${JSON.stringify(listings.map(compactRe
 
 USER QUESTION: ${request.question}`;
 
-      const answer = await callGemini(prompt, process.env.GOOGLE_API_KEY);
+      const answer = await callGemini(prompt, apiKey);
       return {
         answer,
         language,
