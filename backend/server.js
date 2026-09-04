@@ -14,10 +14,11 @@ const { startEmberTicker } = require('./ticker/emberTicker');
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-// CORS
+// CORS - allow Netlify frontend, localhost, or configured origin
 app.use(
   cors({
-    origin: process.env.FRONTEND_ORIGIN || '*',
+    origin: true,
+    credentials: true,
   })
 );
 
