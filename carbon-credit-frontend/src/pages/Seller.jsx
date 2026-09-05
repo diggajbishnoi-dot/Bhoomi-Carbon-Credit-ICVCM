@@ -20,7 +20,8 @@ import {
   Upload,
   X,
   Zap,
-  Info
+  Info,
+  RotateCcw
 } from 'lucide-react';
 import { listCredit } from '../api';
 import QualityBadge from '../components/QualityBadge';
@@ -471,7 +472,7 @@ export default function Seller() {
       {!result && (
         <div className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-10 shadow-sm">
           
-          <div className="border-b border-slate-100 pb-5 mb-6 flex items-center justify-between">
+          <div className="border-b border-slate-100 pb-5 mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <div>
               <h2 className="font-display text-xl sm:text-2xl font-bold text-slate-900">
                 {t('seller.form_title')}
@@ -480,9 +481,20 @@ export default function Seller() {
                 Upload your issuance certificate to auto-fill or enter details manually
               </p>
             </div>
-            <span className="text-xs font-bold text-forest-800 bg-forest-50 px-3 py-1 rounded-lg border border-forest-200 hidden sm:inline-block">
-              Step 1 of 1 (Instant Discovery)
-            </span>
+            <div className="flex items-center gap-2.5">
+              <button
+                type="button"
+                onClick={handleReset}
+                title="Clear all fields and reset form"
+                className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-600 hover:text-rose-600 bg-slate-50 hover:bg-rose-50 px-3 py-1.5 rounded-xl border border-slate-200 hover:border-rose-200 transition-all shadow-2xs cursor-pointer"
+              >
+                <RotateCcw size={13} className="text-slate-500 hover:text-rose-600" />
+                <span>Clear Data (डेटा साफ़ करें)</span>
+              </button>
+              <span className="text-xs font-bold text-forest-800 bg-forest-50 px-3 py-1 rounded-lg border border-forest-200 hidden sm:inline-block">
+                Step 1 of 1 (Instant Discovery)
+              </span>
+            </div>
           </div>
 
           {/* Submission Error Banner */}
@@ -805,12 +817,21 @@ export default function Seller() {
 
             </div>
 
-            {/* Submit Button */}
-            <div className="pt-4">
+            {/* Action Buttons: Clear Data & Submit */}
+            <div className="pt-4 flex flex-col sm:flex-row items-center gap-3.5">
+              <button
+                type="button"
+                onClick={handleReset}
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-300 bg-slate-50 hover:bg-rose-50 px-6 py-4 text-sm sm:text-base font-bold text-slate-700 hover:text-rose-700 hover:border-rose-300 transition-all shadow-sm cursor-pointer"
+              >
+                <RotateCcw size={18} />
+                <span>Clear Data (डेटा साफ़ करें)</span>
+              </button>
+
               <button
                 type="submit"
                 disabled={submitting}
-                className="w-full inline-flex items-center justify-center gap-2 rounded-2xl bg-forest-800 py-4 px-8 text-base sm:text-lg font-extrabold text-white shadow-xl shadow-forest-950/20 hover:bg-forest-900 focus:outline-none focus:ring-4 focus:ring-forest-200 transition-all disabled:opacity-60 disabled:cursor-not-allowed"
+                className="w-full flex-1 inline-flex items-center justify-center gap-2 rounded-2xl bg-forest-800 py-4 px-8 text-base sm:text-lg font-extrabold text-white shadow-xl shadow-forest-950/20 hover:bg-forest-900 focus:outline-none focus:ring-4 focus:ring-forest-200 transition-all disabled:opacity-60 disabled:cursor-not-allowed cursor-pointer"
               >
                 {submitting ? (
                   <>
