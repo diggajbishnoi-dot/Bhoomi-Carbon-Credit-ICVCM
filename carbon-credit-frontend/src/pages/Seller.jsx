@@ -481,20 +481,9 @@ export default function Seller() {
                 Upload your issuance certificate to auto-fill or enter details manually
               </p>
             </div>
-            <div className="flex items-center gap-2.5">
-              <button
-                type="button"
-                onClick={handleReset}
-                title="Clear all fields and reset form"
-                className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-600 hover:text-rose-600 bg-slate-50 hover:bg-rose-50 px-3 py-1.5 rounded-xl border border-slate-200 hover:border-rose-200 transition-all shadow-2xs cursor-pointer"
-              >
-                <RotateCcw size={13} className="text-slate-500 hover:text-rose-600" />
-                <span>Clear Data (डेटा साफ़ करें)</span>
-              </button>
-              <span className="text-xs font-bold text-forest-800 bg-forest-50 px-3 py-1 rounded-lg border border-forest-200 hidden sm:inline-block">
-                Step 1 of 1 (Instant Discovery)
-              </span>
-            </div>
+            <span className="text-xs font-bold text-forest-800 bg-forest-50 px-3 py-1 rounded-lg border border-forest-200 hidden sm:inline-block">
+              Step 1 of 1 (Instant Discovery)
+            </span>
           </div>
 
           {/* Submission Error Banner */}
@@ -825,7 +814,7 @@ export default function Seller() {
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-300 bg-slate-50 hover:bg-rose-50 px-6 py-4 text-sm sm:text-base font-bold text-slate-700 hover:text-rose-700 hover:border-rose-300 transition-all shadow-sm cursor-pointer"
               >
                 <RotateCcw size={18} />
-                <span>Clear Data (डेटा साफ़ करें)</span>
+                <span>{t('seller.clear_data')}</span>
               </button>
 
               <button

@@ -87,6 +87,7 @@
     "methodology": "Methodology Protocol / Standard Code",
     "methodology_placeholder": "e.g. VM0007, Puro Biochar v2.1, GS TPDD...",
     "submit_btn": "Calculate Fair Price & List Credit",
+    "clear_data": "Clear Data",
     "submitting": "Evaluating ICVCM Quality Rules...",
     "success_title": "Credit Evaluated & Listed Successfully!",
     "success_desc": "Your credit listing is now live in the transparent price directory with certified quality indicators.",
