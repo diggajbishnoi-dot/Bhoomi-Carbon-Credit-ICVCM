@@ -92,8 +92,8 @@ export default function Home() {
             className="w-full h-full object-cover object-center animate-hero-slow select-none pointer-events-none"
           />
         </div>
-        {/* Atmospheric Gradient Overlay for Crisp Black Text Readability & Image Vibrancy */}
-        <div className="absolute inset-0 -z-10 bg-gradient-to-b from-white/20 via-white/10 to-[#FAF8F5]/50 pointer-events-none" />
+        {/* Atmospheric Gradient Overlay - ultra-light to maximize landscape image visibility & color vibrancy */}
+        <div className="absolute inset-0 -z-10 bg-gradient-to-b from-white/10 via-transparent to-[#FAF8F5]/20 pointer-events-none" />
 
         <div className="mx-auto max-w-5xl text-center relative z-10 py-16">
           
@@ -102,7 +102,7 @@ export default function Home() {
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4 }}
-            className="inline-flex items-center gap-2 rounded-full border border-forest-900/20 bg-white/85 backdrop-blur-md px-4 py-1.5 text-xs font-extrabold text-forest-950 shadow-sm mb-6 uppercase tracking-widest"
+            className="inline-flex items-center gap-2 rounded-full border border-forest-900/20 bg-white/90 backdrop-blur-md px-4 py-1.5 text-xs font-extrabold text-forest-950 shadow-sm mb-6 uppercase tracking-widest"
           >
             <ShieldCheck size={16} className="text-forest-700" />
             <span>{t('home.hero_tagline')}</span>
@@ -113,7 +113,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="font-display text-4xl sm:text-6xl lg:text-7xl font-black tracking-tight text-slate-950 leading-[1.12]"
+            className="font-display text-4xl sm:text-6xl lg:text-7xl font-black tracking-tight text-slate-950 leading-[1.12] [text-shadow:_0_1px_12px_rgba(255,255,255,0.8)]"
           >
             {t('home.hero_title')}
           </motion.h1>
@@ -123,7 +123,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="mt-6 text-base sm:text-xl text-slate-800 max-w-3xl mx-auto leading-relaxed font-semibold"
+            className="mt-6 text-base sm:text-xl text-slate-950 max-w-3xl mx-auto leading-relaxed font-bold [text-shadow:_0_1px_10px_rgba(255,255,255,0.8)]"
           >
             {t('home.hero_subtitle')}
           </motion.p>
