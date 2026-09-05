@@ -435,8 +435,22 @@ export async function getCompany(name) {
  * 5. POST /companies/optimize
  */
 export async function optimizeCompany(companyName) {
-  // Helper: compute optimization locally from BEE mock data
-  function computeLocalOptimization(companyName) {
+  // Helper: fetch REAL listings from the /credits API (database-backed, not hardcoded mock)
+  async function fetchRealListings() {
+    try {
+      const data = await getCredits();
+      if (data?.listings?.length > 0) {
+        return data.listings;
+      }
+    } catch (e) {
+      console.warn('[API] fetchRealListings failed, falling back to MOCK_LISTINGS:', e.message);
+    }
+    // Ultimate fallback: use mock listings if /credits also fails
+    return MOCK_LISTINGS;
+  }
+
+  // Helper: compute optimization locally from available listings (real or mock)
+  async function computeLocalOptimization(companyName) {
     const key = companyName.trim().toLowerCase();
     const matchedEntry = Object.entries(MOCK_COMPANIES).find(([k]) => key.includes(k) || k.includes(key));
     
@@ -463,28 +477,49 @@ export async function optimizeCompany(companyName) {
       };
     }
 
-    let remainingGap = gap;
+    // Fetch REAL listings from database via /credits API
+    const realListings = await fetchRealListings();
+
+    // Greedy allocation matching backend optimizer.js logic
+    // Group by quality badge, prioritize green > yellow > red
+    const ALLOCATION_RATIO = { green: 0.5, yellow: 0.3, red: 0.2 };
+    const buckets = { green: [], yellow: [], red: [] };
+    for (const l of realListings) {
+      const badge = (l.quality_badge || 'yellow').toLowerCase();
+      if (buckets[badge]) buckets[badge].push(l);
+    }
+    // Sort each bucket by fair_price ascending (cheapest first)
+    for (const badge in buckets) {
+      buckets[badge].sort((a, b) => (parseFloat(a.fair_price) || 0) - (parseFloat(b.fair_price) || 0));
+    }
+
     const selected = [];
     let totalCost = 0;
+    let totalCreditsFilled = 0;
     let qualityPointsSum = 0;
 
-    const available = MOCK_LISTINGS.filter(l => l.quality_badge !== 'red');
-    for (const listing of available) {
-      if (remainingGap <= 0) break;
-      const take = Math.min(remainingGap, listing.credits_issued);
-      if (take > 0) {
-        selected.push({
-          ...listing,
-          credits_taken: take,
-          item_total: +(take * listing.fair_price).toFixed(2)
-        });
-        totalCost += take * listing.fair_price;
-        qualityPointsSum += listing.quality_score * take;
-        remainingGap -= take;
+    for (const badge of ['green', 'yellow', 'red']) {
+      let targetForBucket = Math.round(gap * ALLOCATION_RATIO[badge]);
+      for (const listing of buckets[badge]) {
+        if (targetForBucket <= 0) break;
+        const price = parseFloat(listing.fair_price) || 0;
+        const creditsAvail = parseInt(listing.credits_issued) || 0;
+        const score = parseInt(listing.quality_score) || 50;
+        const take = Math.min(targetForBucket, creditsAvail);
+        if (take > 0) {
+          selected.push({
+            ...listing,
+            credits_taken: take,
+            item_total: +(take * price).toFixed(2)
+          });
+          totalCost += take * price;
+          qualityPointsSum += score * take;
+          totalCreditsFilled += take;
+          targetForBucket -= take;
+        }
       }
     }
 
-    const totalCreditsFilled = gap - remainingGap;
     const avgScore = totalCreditsFilled > 0 ? Math.round(qualityPointsSum / totalCreditsFilled) : 0;
 
     return {
@@ -495,7 +530,7 @@ export async function optimizeCompany(companyName) {
         total_credits_filled: totalCreditsFilled,
         total_cost: +totalCost.toFixed(2),
         avg_quality_score: avgScore,
-        shortfall: remainingGap
+        shortfall: Math.max(0, gap - totalCreditsFilled)
       }
     };
   }
@@ -503,7 +538,7 @@ export async function optimizeCompany(companyName) {
   const url = `${BACKEND_URL}/companies/optimize`;
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 3000);
+    const timeoutId = setTimeout(() => controller.abort(), 5000);
 
     const res = await fetch(url, {
       method: 'POST',
@@ -514,9 +549,9 @@ export async function optimizeCompany(companyName) {
     clearTimeout(timeoutId);
 
     if (res.status === 404) {
-      // Backend doesn't have this company — try local BEE data
-      console.warn('[API] Company not found on server, trying BEE mock data...');
-      return computeLocalOptimization(companyName);
+      // Backend doesn't have this company — try local BEE data with real listings
+      console.warn('[API] Company not found on server, computing from real listings...');
+      return await computeLocalOptimization(companyName);
     }
     if (!res.ok) {
       const errorBody = await res.json().catch(() => ({}));
@@ -524,17 +559,17 @@ export async function optimizeCompany(companyName) {
     }
     const data = await res.json();
 
-    // If backend returned zero/empty requirements, use BEE mock data instead
+    // If backend returned zero/empty requirements, use BEE mock data with real listings
     if (!data.company?.required_credits || data.company.required_credits <= 0) {
-      console.warn('[API] Backend returned zero requirements, using BEE mock data for demo.');
-      return computeLocalOptimization(companyName);
+      console.warn('[API] Backend returned zero requirements, computing from real listings.');
+      return await computeLocalOptimization(companyName);
     }
 
     return data;
   } catch (err) {
     if (err.status === 404) throw err;
-    console.warn(`[API] optimizeCompany live fetch failed (${err.message}). Computing optimization locally.`);
-    return computeLocalOptimization(companyName);
+    console.warn(`[API] optimizeCompany live fetch failed (${err.message}). Computing from real listings.`);
+    return await computeLocalOptimization(companyName);
   }
 }
 
