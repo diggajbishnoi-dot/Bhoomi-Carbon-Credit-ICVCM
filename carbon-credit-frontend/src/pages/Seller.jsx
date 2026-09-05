@@ -358,7 +358,7 @@ export default function Seller() {
   };
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8 pb-24">
+    <div className="mx-auto max-w-4xl px-3 sm:px-6 lg:px-8 py-6 sm:py-10 pb-20 sm:pb-24">
       
       {/* Page Title */}
       <div className="text-center max-w-2xl mx-auto mb-10">
@@ -366,7 +366,7 @@ export default function Seller() {
           <Sprout size={15} className="text-emerald-700" />
           <span>Kisan & Developer Portal (किसान और डेवलपर मंच)</span>
         </div>
-        <h1 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-forest-950">
+        <h1 className="font-display text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-forest-950">
           {t('seller.title')}
         </h1>
         <p className="mt-3 text-sm sm:text-base text-slate-600 font-medium">
@@ -470,7 +470,7 @@ export default function Seller() {
 
       {/* SELLER FORM */}
       {!result && (
-        <div className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-10 shadow-sm">
+        <div className="rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 md:p-10 shadow-sm">
           
           <div className="border-b border-slate-100 pb-5 mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <div>

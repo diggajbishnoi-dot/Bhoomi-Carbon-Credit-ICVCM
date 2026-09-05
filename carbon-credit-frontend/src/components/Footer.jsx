@@ -10,10 +10,10 @@ export default function Footer() {
     <footer className="mt-auto border-t border-forest-100 bg-[#F4F1EA] text-slate-700">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 mb-10">
           
           {/* Brand & Mission */}
-          <div className="md:col-span-2">
+          <div className="col-span-2 md:col-span-2">
             <div className="flex items-center gap-2.5 mb-3">
               <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-forest-800 text-white">
                 <Leaf size={20} className="text-emerald-300" />

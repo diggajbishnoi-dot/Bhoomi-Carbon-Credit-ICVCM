@@ -80,9 +80,9 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex flex-col gap-12 sm:gap-20 pb-20">
+    <div className="flex flex-col gap-8 sm:gap-12 md:gap-20 pb-16 sm:pb-20">
       {/* 1. HERO SECTION (Slow Moving Landscape Background) */}
-      <section className="relative w-full min-h-[88vh] flex flex-col items-center justify-center overflow-hidden px-4 sm:px-6 lg:px-8 shadow-2xl mb-10">
+      <section className="relative w-full min-h-[70vh] sm:min-h-[88vh] flex flex-col items-center justify-center overflow-hidden px-3 sm:px-6 lg:px-8 shadow-2xl mb-6 sm:mb-10">
         
         {/* Slow Moving Landscape Background */}
         <div className="absolute inset-0 -z-20 w-full h-full overflow-hidden bg-forest-950">
@@ -95,7 +95,7 @@ export default function Home() {
         {/* Atmospheric Gradient Overlay - ultra-light to maximize landscape image visibility & color vibrancy */}
         <div className="absolute inset-0 -z-10 bg-gradient-to-b from-white/10 via-transparent to-[#FAF8F5]/20 pointer-events-none" />
 
-        <div className="mx-auto max-w-5xl text-center relative z-10 py-16">
+        <div className="mx-auto max-w-5xl text-center relative z-10 py-8 sm:py-16">
           
           {/* Integrity Pill */}
           <motion.div
@@ -113,7 +113,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="font-display text-4xl sm:text-6xl lg:text-7xl font-black tracking-tight text-slate-950 leading-[1.12] [text-shadow:_0_1px_12px_rgba(255,255,255,0.8)]"
+            className="font-display text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-tight text-slate-950 leading-[1.12] [text-shadow:_0_1px_12px_rgba(255,255,255,0.8)]"
           >
             {t('home.hero_title')}
           </motion.h1>
@@ -123,7 +123,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="mt-6 text-base sm:text-xl text-slate-950 max-w-3xl mx-auto leading-relaxed font-bold [text-shadow:_0_1px_10px_rgba(255,255,255,0.8)]"
+            className="mt-4 sm:mt-6 text-sm sm:text-lg md:text-xl text-slate-950 max-w-3xl mx-auto leading-relaxed font-bold [text-shadow:_0_1px_10px_rgba(255,255,255,0.8)]"
           >
             {t('home.hero_subtitle')}
           </motion.p>
@@ -133,19 +133,19 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.3 }}
-            className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-3xl mx-auto"
+            className="mt-6 sm:mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5 max-w-3xl mx-auto"
           >
             
             {/* Buyer CTA Card */}
             <Link
               to="/buyer"
-              className="group relative flex flex-col items-start p-7 rounded-3xl bg-gradient-to-br from-slate-900 via-forest-950 to-slate-900 text-white shadow-2xl shadow-slate-950/20 hover:shadow-glow-green hover:scale-[1.02] transition-all duration-200 border border-slate-800"
+              className="group relative flex flex-col items-start p-5 sm:p-7 rounded-3xl bg-gradient-to-br from-slate-900 via-forest-950 to-slate-900 text-white shadow-2xl shadow-slate-950/20 hover:shadow-glow-green hover:scale-[1.02] transition-all duration-200 border border-slate-800"
             >
               <div className="flex h-13 w-13 items-center justify-center rounded-2xl bg-forest-800 text-emerald-300 mb-4 group-hover:bg-forest-700 transition-colors p-3 shadow-inner">
                 <Building2 size={26} />
               </div>
               <div className="flex items-center justify-between w-full">
-                <h3 className="font-display text-2xl font-bold text-white group-hover:text-emerald-300 transition-colors">
+                <h3 className="font-display text-xl sm:text-2xl font-bold text-white group-hover:text-emerald-300 transition-colors">
                   {t('home.buyer_btn')}
                 </h3>
                 <ArrowRight size={22} className="text-emerald-400 group-hover:translate-x-2 transition-transform" />
@@ -158,13 +158,13 @@ export default function Home() {
             {/* Seller / Kisan CTA Card */}
             <Link
               to="/seller"
-              className="group relative flex flex-col items-start p-7 rounded-3xl bg-gradient-to-br from-emerald-50 via-sand-50 to-amber-50 text-forest-950 shadow-xl shadow-sand-400/25 hover:shadow-glow-gold hover:scale-[1.02] transition-all duration-200 border border-forest-200"
+              className="group relative flex flex-col items-start p-5 sm:p-7 rounded-3xl bg-gradient-to-br from-emerald-50 via-sand-50 to-amber-50 text-forest-950 shadow-xl shadow-sand-400/25 hover:shadow-glow-gold hover:scale-[1.02] transition-all duration-200 border border-forest-200"
             >
               <div className="flex h-13 w-13 items-center justify-center rounded-2xl bg-forest-700 text-white mb-4 group-hover:bg-forest-800 transition-colors p-3 shadow-md">
                 <Sprout size={26} className="text-emerald-200" />
               </div>
               <div className="flex items-center justify-between w-full">
-                <h3 className="font-display text-2xl font-bold text-forest-950 group-hover:text-forest-800 transition-colors">
+                <h3 className="font-display text-xl sm:text-2xl font-bold text-forest-950 group-hover:text-forest-800 transition-colors">
                   {t('home.seller_btn')}
                 </h3>
                 <ArrowRight size={22} className="text-forest-800 group-hover:translate-x-2 transition-transform" />
@@ -185,13 +185,13 @@ export default function Home() {
       </section>
 
       {/* 4. INTERACTIVE KISAN CARBON EARNING ESTIMATOR */}
-      <section className="px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto w-full">
+      <section className="px-3 sm:px-6 lg:px-8 max-w-5xl mx-auto w-full">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.4 }}
-          className="rounded-3xl border border-forest-300 bg-gradient-to-br from-white via-sand-50 to-emerald-50/50 p-6 sm:p-10 shadow-lg"
+          className="rounded-3xl border border-forest-300 bg-gradient-to-br from-white via-sand-50 to-emerald-50/50 p-4 sm:p-6 md:p-10 shadow-lg"
         >
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-sand-300 pb-6 mb-6">
             <div>
@@ -199,7 +199,7 @@ export default function Home() {
                 <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-emerald-600 text-white">
                   <Calculator size={16} />
                 </span>
-                <h2 className="font-display text-xl sm:text-2xl font-bold text-forest-950">
+                <h2 className="font-display text-lg sm:text-xl md:text-2xl font-bold text-forest-950">
                   Kisan Carbon Revenue Estimator (किसान आय कैलकुलेटर)
                 </h2>
               </div>
@@ -260,12 +260,12 @@ export default function Home() {
             </div>
 
             {/* Live Calculation Output Card */}
-            <div className="p-6 sm:p-7 rounded-3xl bg-forest-900 text-white shadow-xl flex flex-col justify-between border border-forest-800">
+            <div className="p-5 sm:p-6 md:p-7 rounded-3xl bg-forest-900 text-white shadow-xl flex flex-col justify-between border border-forest-800">
               <div>
                 <div className="text-xs uppercase font-bold text-emerald-300 tracking-wider mb-1">
                   Estimated Annual Carbon Yield
                 </div>
-                <div className="font-display text-3xl font-extrabold text-white">
+                <div className="font-display text-2xl sm:text-3xl font-extrabold text-white">
                   ~{estimatedCredits.toLocaleString()} <span className="text-lg font-normal text-emerald-200">tCO2e Credits/yr</span>
                 </div>
 
@@ -273,7 +273,7 @@ export default function Home() {
                   <div className="text-xs uppercase font-bold text-emerald-300 tracking-wider mb-1">
                     Potential Farmer Income (अनुमानित वार्षिक आय)
                   </div>
-                  <div className="font-display text-3xl sm:text-4xl font-extrabold text-emerald-300">
+                  <div className="font-display text-2xl sm:text-3xl md:text-4xl font-extrabold text-emerald-300">
                     {formatPrice(estimatedIncomeUsd)}
                     <span className="text-xs font-sans font-normal text-forest-200 ml-1">/ year</span>
                   </div>
@@ -296,18 +296,18 @@ export default function Home() {
       </section>
 
       {/* 5. ANIMATED COUNT-UP QUICK STATS */}
-      <section className="px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto w-full">
-        <div className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-10 shadow-sm">
+      <section className="px-3 sm:px-6 lg:px-8 max-w-6xl mx-auto w-full">
+        <div className="rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 md:p-10 shadow-sm">
           <div className="text-center mb-8">
-            <h2 className="font-display text-2xl sm:text-3xl font-bold text-forest-950">
+            <h2 className="font-display text-xl sm:text-2xl md:text-3xl font-bold text-forest-950">
               {t('home.stats_title')}
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center divide-y md:divide-y-0 md:divide-x divide-slate-100">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-8 items-center divide-y sm:divide-y-0 sm:divide-x divide-slate-100">
             
             {/* Stat 1: Total Listings */}
-            <div className="pt-4 md:pt-0">
+            <div className="pt-4 sm:pt-0">
               <StatCounter
                 target={stats.totalListings || 7}
                 label={t('home.total_listings')}
@@ -316,7 +316,7 @@ export default function Home() {
             </div>
 
             {/* Stat 2: Average Fair Price in Active Currency */}
-            <div className="pt-4 md:pt-0 md:px-4">
+            <div className="pt-4 sm:pt-0 sm:px-4">
               <StatCounter
                 target={currency === 'INR' ? Math.round((stats.avgFairPrice || 161.46) * 85) : (stats.avgFairPrice || 161.46)}
                 decimals={currency === 'INR' ? 0 : 2}
@@ -327,7 +327,7 @@ export default function Home() {
             </div>
 
             {/* Stat 3: Quality Breakdown Signals */}
-            <div className="pt-4 md:pt-0 md:pl-4 flex flex-col items-center">
+            <div className="pt-4 sm:pt-0 sm:pl-4 flex flex-col items-center">
               <span className="text-xs sm:text-sm font-bold text-slate-700 mb-3">
                 {t('home.quality_summary')}
               </span>
@@ -356,9 +356,9 @@ export default function Home() {
       </section>
 
       {/* 6. "HOW IT WORKS" 3-STEP VISUAL */}
-      <section className="px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto w-full">
+      <section className="px-3 sm:px-6 lg:px-8 max-w-6xl mx-auto w-full">
         <div className="text-center mb-12">
-          <h2 className="font-display text-3xl sm:text-4xl font-bold text-forest-950">
+          <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-forest-950">
             {t('home.how_it_works_title')}
           </h2>
           <p className="mt-3 text-slate-600 max-w-2xl mx-auto text-sm sm:text-base font-medium">
@@ -366,7 +366,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8">
           
           <motion.div
             initial={{ opacity: 0, y: 20 }}

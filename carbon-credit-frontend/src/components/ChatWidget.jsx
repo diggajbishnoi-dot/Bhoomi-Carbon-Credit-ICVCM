@@ -56,7 +56,7 @@ export default function ChatWidget() {
             whileTap={{ scale: 0.95 }}
             onClick={() => setIsOpen(true)}
             aria-label="Open AI Assistant"
-            className="fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-forest-900 text-white shadow-xl shadow-forest-950/30 ring-4 ring-white transition-all hover:bg-forest-950"
+            className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-forest-900 text-white shadow-xl shadow-forest-950/30 ring-4 ring-white transition-all hover:bg-forest-950"
           >
             <MessageCircle size={24} />
             <span className="absolute right-0 top-0 flex h-3.5 w-3.5">
@@ -74,8 +74,8 @@ export default function ChatWidget() {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 20, scale: 0.95 }}
             transition={{ duration: 0.2 }}
-            className="fixed bottom-6 right-6 z-40 flex w-[calc(100vw-32px)] sm:w-[380px] flex-col overflow-hidden rounded-3xl bg-white shadow-2xl border border-sand-300"
-            style={{ height: '520px', maxHeight: 'calc(100vh - 48px)' }}
+            className="fixed inset-0 sm:inset-auto sm:bottom-6 sm:right-6 z-40 flex w-full sm:w-[380px] flex-col overflow-hidden sm:rounded-3xl bg-white shadow-2xl border-0 sm:border sm:border-sand-300"
+            style={{ height: '100%', maxHeight: '100vh', ...(window.innerWidth >= 640 ? { height: '520px', maxHeight: 'calc(100vh - 48px)' } : {}) }}
           >
             {/* Header */}
             <div className="flex items-center justify-between bg-forest-900 px-4 py-3 text-white">

@@ -20,7 +20,7 @@ export default function WhatIsCarbonCredit() {
   const { t } = useTranslation();
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8 pb-24 space-y-16">
+    <div className="mx-auto max-w-5xl px-3 sm:px-6 lg:px-8 py-6 sm:py-10 pb-20 sm:pb-24 space-y-10 sm:space-y-16">
       
       {/* Hero Header */}
       <div className="text-center max-w-3xl mx-auto">
@@ -28,7 +28,7 @@ export default function WhatIsCarbonCredit() {
           <HelpCircle size={14} className="text-forest-700" />
           <span>Educational Guide</span>
         </div>
-        <h1 className="font-serif text-3xl sm:text-5xl font-bold tracking-tight text-forest-950">
+        <h1 className="font-serif text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-forest-950">
           {t('what_is_carbon.title')}
         </h1>
         <p className="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed">

@@ -35,7 +35,7 @@ export default function BreakdownModal({ listing, isOpen, onClose }) {
           animate={{ scale: 1, opacity: 1, y: 0 }}
           exit={{ scale: 0.95, opacity: 0, y: 15 }}
           transition={{ type: 'spring', damping: 25, stiffness: 300 }}
-          className="relative w-full max-w-2xl rounded-3xl bg-white p-6 sm:p-8 shadow-2xl z-10 border border-slate-100 max-h-[90vh] overflow-y-auto"
+          className="relative w-full max-w-2xl rounded-2xl sm:rounded-3xl bg-white p-4 sm:p-6 md:p-8 shadow-2xl z-10 border border-slate-100 max-h-[95vh] sm:max-h-[90vh] overflow-y-auto"
         >
           {/* Header */}
           <div className="flex items-start justify-between gap-4 border-b border-slate-100 pb-5">

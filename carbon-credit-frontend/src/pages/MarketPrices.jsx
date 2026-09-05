@@ -211,7 +211,7 @@ export default function MarketPrices() {
   };
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 pb-24">
+    <div className="mx-auto max-w-6xl px-3 sm:px-6 lg:px-8 py-6 sm:py-10 pb-20 sm:pb-24">
       
       {/* Header */}
       <div className="text-center max-w-3xl mx-auto mb-10">
@@ -219,7 +219,7 @@ export default function MarketPrices() {
           <TrendingUp size={15} className="text-forest-700" />
           <span>Carbon Index & Price Analytics</span>
         </div>
-        <h1 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-forest-950">
+        <h1 className="font-display text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-forest-950">
           {t('market_prices.title')}
         </h1>
         <p className="mt-3 text-sm sm:text-base text-slate-600 font-medium">
@@ -228,7 +228,7 @@ export default function MarketPrices() {
       </div>
 
       {/* Visual Charts Grid */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 sm:gap-8 mb-12">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-8 sm:mb-12">
         
         {/* Bar Chart */}
         <motion.div
@@ -236,7 +236,7 @@ export default function MarketPrices() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.4 }}
-          className="lg:col-span-2 rounded-3xl border border-sand-300 bg-white p-6 sm:p-8 shadow-sm flex flex-col justify-between"
+          className="md:col-span-2 rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 md:p-8 shadow-sm flex flex-col justify-between"
         >
           <div className="mb-6">
             <div className="flex items-center gap-2 mb-1">
@@ -250,7 +250,7 @@ export default function MarketPrices() {
             </p>
           </div>
 
-          <div className="h-72 sm:h-80 w-full">
+          <div className="h-60 sm:h-72 md:h-80 w-full">
             {loading ? (
               <div className="flex h-full items-center justify-center text-sm text-slate-400">
                 {t('market_prices.loading')}
@@ -267,7 +267,7 @@ export default function MarketPrices() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.4, delay: 0.15 }}
-          className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-8 shadow-sm flex flex-col justify-between"
+          className="rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 md:p-8 shadow-sm flex flex-col justify-between"
         >
           <div className="mb-4">
             <div className="flex items-center gap-2 mb-1">
@@ -281,7 +281,7 @@ export default function MarketPrices() {
             </p>
           </div>
 
-          <div className="h-64 sm:h-72 w-full flex items-center justify-center">
+          <div className="h-52 sm:h-64 md:h-72 w-full flex items-center justify-center">
             {loading ? (
               <div className="text-sm text-slate-400">{t('market_prices.loading')}</div>
             ) : (
@@ -298,7 +298,7 @@ export default function MarketPrices() {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.4, delay: 0.2 }}
-        className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-8 shadow-sm overflow-hidden"
+        className="rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 md:p-8 shadow-sm overflow-hidden"
       >
         <div className="flex items-center justify-between mb-6 flex-wrap gap-2">
           <div className="flex items-center gap-2">

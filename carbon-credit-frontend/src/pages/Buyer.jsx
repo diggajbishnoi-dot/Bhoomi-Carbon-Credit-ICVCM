@@ -147,7 +147,7 @@ export default function Buyer() {
   };
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 pb-24">
+    <div className="mx-auto max-w-6xl px-3 sm:px-6 lg:px-8 py-6 sm:py-10 pb-20 sm:pb-24">
       
       {/* Header */}
       <div className="text-center max-w-3xl mx-auto mb-10">
@@ -155,7 +155,7 @@ export default function Buyer() {
           <Building2 size={15} className="text-forest-700" />
           <span>Corporate Net-Zero & ESG Compliance Hub</span>
         </div>
-        <h1 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-forest-950">
+        <h1 className="font-display text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-forest-950">
           {t('buyer.title')}
         </h1>
         <p className="mt-3 text-sm sm:text-base text-slate-600 font-medium">
@@ -313,7 +313,7 @@ export default function Buyer() {
                 </h2>
               </div>
 
-              <div className="flex items-center gap-5">
+              <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-5">
                 <div className="text-right">
                   <div className="text-xs font-bold text-slate-500 uppercase">{t('buyer.need_credits')}</div>
                   <div className="font-display text-xl sm:text-2xl font-extrabold text-slate-900">
@@ -388,7 +388,7 @@ export default function Buyer() {
             <div className="rounded-3xl border border-sand-300 bg-white p-6 sm:p-8 shadow-sm">
               <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
                 <div>
-                  <h3 className="font-display text-2xl sm:text-3xl font-extrabold text-slate-900">
+                  <h3 className="font-display text-xl sm:text-2xl md:text-3xl font-extrabold text-slate-900">
                     {t('buyer.plan_title')}
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-0.5 font-medium">

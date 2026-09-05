@@ -74,3 +74,55 @@
   will-change: transform;
 }
 
+/* ── RESPONSIVE UTILITIES ── */
+
+/* Safe-area insets for iPhones with notch / dynamic island */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+}
+
+/* Prevent horizontal overflow globally on mobile */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Smooth touch scrolling for all scrollable containers */
+.overflow-x-auto,
+.overflow-y-auto {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Ensure form inputs aren't zoomed in on iOS (min 16px font) */
+@media screen and (max-width: 640px) {
+  input[type="text"],
+  input[type="number"],
+  input[type="email"],
+  input[type="tel"],
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Hide scrollbar on mobile ticker / horizontal scroll containers */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Table responsive: make cells wrap better on small screens */
+@media screen and (max-width: 640px) {
+  table {
+    font-size: 12px;
+  }
+  th, td {
+    padding: 8px 6px !important;
+  }
+}
+

@@ -86,7 +86,7 @@ export default function BrowseCredits() {
   };
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8 pb-24">
+    <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8 py-6 sm:py-10 pb-20 sm:pb-24">
       
       {/* Header */}
       <div className="text-center max-w-3xl mx-auto mb-10">
@@ -94,7 +94,7 @@ export default function BrowseCredits() {
           <Layers size={14} className="text-forest-700" />
           <span>{t('browse_credits.title')}</span>
         </div>
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-forest-950">
+        <h1 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-forest-950">
           {t('browse_credits.title')}
         </h1>
         <p className="mt-3 text-sm sm:text-base text-slate-600">
@@ -103,7 +103,7 @@ export default function BrowseCredits() {
       </div>
 
       {/* FILTER BAR */}
-      <div className="rounded-3xl border border-sand-300 bg-white p-5 sm:p-6 shadow-sm mb-8">
+      <div className="rounded-3xl border border-sand-300 bg-white p-4 sm:p-6 shadow-sm mb-6 sm:mb-8">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 items-center">
           
           {/* Search Input */}
@@ -208,7 +208,7 @@ export default function BrowseCredits() {
           </button>
         </div>
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 md:gap-8">
           {displayedListings.map((listing, index) => (
             <CreditCard
               key={listing.id || index}
